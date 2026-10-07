@@ -15,7 +15,7 @@ Copying and pasting would be slower. I could also miss things while transferring
 
 ### Step D: How the MCP server connects Claude Code to Colab
 
-XXXX
+I would guess that the MCP server acts as a bridge between Claude Code on my laptop and the notebook running on Google's computer. Claude Code sends requests or commands to the MCP server, and the MCP server passes the requests to the notebook. After the notebook runs the requests, it sends the results back to the MCP server, and the MCP server passes the results to Claude.
 
 ## Part 1: The tools and the tests
 
