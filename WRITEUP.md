@@ -1,17 +1,17 @@
 # COMP 440 HW2: Whose Preferences Count?
 
-**Name:** XXXX
-**Date:** XXXX
+**Name:** Tu Tran
+**Date:** October 6, 2026
 
 ## Part 0: Set up
 
 ### Step B: What an MCP server is and why it's useful
 
-XXXX
+An MCP server is a program that lets an MCP host connect to databases, APIs, local files and code through the MCP protocol. It is useful because a single host can connect to multiple servers, and the host and the LLM do not need to handle the execution of the data sources. They only need to communicate which tools to use. One example of an MCP server is a MySQL database server.
 
 ### Step B: Why not paste code into Colab yourself
 
-XXXX
+Copying and pasting would be slower. I could also miss things while transferring information between Claude and Colab, and Claude may not get the full picture or be able to follow the steps.
 
 ### Step D: How the MCP server connects Claude Code to Colab
 
