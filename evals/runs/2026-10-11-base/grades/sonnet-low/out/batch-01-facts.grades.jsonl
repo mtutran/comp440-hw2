@@ -1,0 +1,60 @@
+{"key":"k805f34a","correct":true,"extracted_answer":"green","reason":"It says \"a shade of green\"."}
+{"key":"k6eb1bfb","correct":true,"extracted_answer":"Alexander Fleming","reason":"It names Alexander Fleming."}
+{"key":"k9181c33","correct":true,"extracted_answer":"Ankara","reason":"The response is \"Ankara\"."}
+{"key":"k332d5a3","correct":true,"extracted_answer":"64","reason":"It says \"The number of squares is 64\"."}
+{"key":"k1483968","correct":true,"extracted_answer":"56","reason":"The response is \"56\"."}
+{"key":"k52a86e5","correct":true,"extracted_answer":"Spanish","reason":"It calls it \"the original Spanish version\"."}
+{"key":"k76c8eac","correct":true,"extracted_answer":"The Milky Way Galaxy","reason":"It names the Milky Way."}
+{"key":"k645d61c","correct":false,"extracted_answer":"Giuseppe Verdi","reason":"It credits Verdi, not Vivaldi."}
+{"key":"kdcb6218","correct":false,"extracted_answer":"none","reason":"It never gives 1945 and talks about other dates."}
+{"key":"kc6eb2b7","correct":true,"extracted_answer":"Chinua Achebe","reason":"It says the author is Chinua Achebe."}
+{"key":"kccef13c","correct":true,"extracted_answer":"went","reason":"It says the past tense is \"went\"."}
+{"key":"k3bfbc3a","correct":false,"extracted_answer":"Hermann Hesse","reason":"It names Hermann Hesse, not Amundsen."}
+{"key":"k93ff8dd","correct":true,"extracted_answer":"pressure of the atmosphere","reason":"It says a barometer measures atmospheric pressure."}
+{"key":"ke86f6f7","correct":true,"extracted_answer":"The Nutcracker","reason":"It names \"The Nutcracker\"."}
+{"key":"k4896096","correct":false,"extracted_answer":"elephants","reason":"It says the largest animals are elephants; blue whales appear only as an aside."}
+{"key":"kaa27381","correct":false,"extracted_answer":"none","reason":"It talks about Magellan in 1519 and never gives 1492."}
+{"key":"k9560575","correct":true,"extracted_answer":"46","reason":"It says the diploid number is 46."}
+{"key":"k5406f3c","correct":true,"extracted_answer":"hydrogen","reason":"It says the atom \"is called hydrogen\"."}
+{"key":"k7115010","correct":false,"extracted_answer":"135","reason":"Its final answer is 135, not 45."}
+{"key":"k1fd8d88","correct":true,"extracted_answer":"chickpeas","reason":"It lists chickpeas first as the primary ingredient."}
+{"key":"k4d7e7d5","correct":true,"extracted_answer":"thank you","reason":"It says \"gracias\" means \"thank you\"."}
+{"key":"kfb2ebc1","correct":true,"extracted_answer":"16","reason":"It says 16 ounces."}
+{"key":"k5f7f1b2","correct":true,"extracted_answer":"168","reason":"It answers 168."}
+{"key":"k805e6ea","correct":true,"extracted_answer":"32 °F","reason":"It says water freezes at 32 °F."}
+{"key":"k123fe8e","correct":false,"extracted_answer":"United Kingdom","reason":"It answers the United Kingdom, not Italy."}
+{"key":"kab56584","correct":true,"extracted_answer":"German","reason":"It says the term is derived from German."}
+{"key":"k975c9bd","correct":true,"extracted_answer":"Ural Mountains","reason":"It names the Ural Mountains."}
+{"key":"k6e1474e","correct":true,"extracted_answer":"Lake Superior","reason":"It says \"Lake Superior is the largest by volume and surface area\"."}
+{"key":"kc89ca50","correct":true,"extracted_answer":"13","reason":"The response is \"13\"."}
+{"key":"kfa28644","correct":false,"extracted_answer":"Thomas Jefferson, Benjamin Franklin and John Adams","reason":"It lists three authors as \"main authors\" and does not commit to Jefferson alone."}
+{"key":"k4d626d2","correct":false,"extracted_answer":"honeycomb","reason":"It talks about honeycomb and never says bees make honey as the answer."}
+{"key":"k2b7e9af","correct":false,"extracted_answer":"4-sided and 6-sided","reason":"It says 4 or 6 sides, not 8."}
+{"key":"kc3280e8","correct":false,"extracted_answer":"none","reason":"It never names the dime and says dimes are worth 25 cents."}
+{"key":"k1ac2063","correct":true,"extracted_answer":"Homer","reason":"It names Homer."}
+{"key":"k19ae5ca","correct":false,"extracted_answer":"974","reason":"974 is not 635."}
+{"key":"k588910b","correct":true,"extracted_answer":"5280","reason":"It opens with \"5280\"; the later text is a separate invented question."}
+{"key":"kfc50bd4","correct":false,"extracted_answer":"none","reason":"It lists the femur with tibia and fibula and does not commit to it."}
+{"key":"k0ed8886","correct":false,"extracted_answer":"none","reason":"It mentions Apollo 11 but never names Neil Armstrong."}
+{"key":"ke9ad440","correct":true,"extracted_answer":"6","reason":"It says a hexagon is a 6-sided polygon."}
+{"key":"k21f9e1c","correct":true,"extracted_answer":"The bishop","reason":"It names the bishop, though with a muddled explanation."}
+{"key":"k31cd7bd","correct":false,"extracted_answer":"Theodore Roosevelt","reason":"It answers Theodore Roosevelt."}
+{"key":"k02dabfb","correct":true,"extracted_answer":"nitrogen","reason":"It says nitrogen makes up 78%."}
+{"key":"k3bbbcb3","correct":true,"extracted_answer":"carbon dioxide","reason":"It says photosynthesis takes up carbon dioxide."}
+{"key":"kca5a240","correct":true,"extracted_answer":"52","reason":"It says 52 cards."}
+{"key":"kc7e4954","correct":true,"extracted_answer":"150 miles","reason":"It says \"the answer is 150 miles\"."}
+{"key":"ke0d35dd","correct":true,"extracted_answer":"England","reason":"It says the Industrial Revolution began in England."}
+{"key":"k60549bd","correct":false,"extracted_answer":"experienced something before (not an exact translation)","reason":"It gives no literal \"already seen\" and wrongly derives the phrase from Latin."}
+{"key":"k6f0dfea","correct":true,"extracted_answer":"5/8","reason":"It says \"the answer is 5 / 8\"."}
+{"key":"k266c95a","correct":true,"extracted_answer":"Vincent van Gogh","reason":"It names Vincent van Gogh."}
+{"key":"kbd09913","correct":false,"extracted_answer":"The Sahara Desert","reason":"It answers the Sahara, not Antarctica."}
+{"key":"k787893e","correct":true,"extracted_answer":"1989","reason":"It says the wall fell in 1989."}
+{"key":"k81c679d","correct":true,"extracted_answer":"The nucleus","reason":"It says \"The nucleus\"."}
+{"key":"kb59a71a","correct":false,"extracted_answer":"imitation","reason":"It answers \"imitation\", not onomatopoeia."}
+{"key":"kf7ca822","correct":true,"extracted_answer":"Egypt","reason":"It says the pyramid is located in Egypt."}
+{"key":"kf243873","correct":true,"extracted_answer":"Saturn","reason":"It names Saturn."}
+{"key":"k78ead26","correct":true,"extracted_answer":"oak","reason":"It says \"the oak\"."}
+{"key":"kb0599bb","correct":true,"extracted_answer":"1991","reason":"It says the USSR dissolved in December 1991."}
+{"key":"k98db587","correct":true,"extracted_answer":"The Strait of Gibraltar","reason":"It names the Strait of Gibraltar."}
+{"key":"k528a381","correct":true,"extracted_answer":"15","reason":"It computes 3 * 5 = 15 eggs."}
+{"key":"ke183018","correct":false,"extracted_answer":"none","reason":"It talks about chlorophyll and energy and never names vitamin D."}
