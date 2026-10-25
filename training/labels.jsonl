@@ -1,0 +1,10 @@
+{"id": "pair-132", "model": "succinct", "pick": "B", "reason": "the A has more than three sentences"}
+{"id": "pair-272", "model": "succinct", "pick": "A", "reason": "B keeps restating what the question asks for (famous in the fantasy genre)"}
+{"id": "pair-028", "model": "succinct", "pick": "A", "reason": "B gives information that the question doesn't ask for"}
+{"id": "pair-067", "model": "succinct", "pick": "A", "reason": "B has more than three sentences"}
+{"id": "pair-160", "model": "succinct", "pick": "A", "reason": "B adds information about electric vehicles that is not asked for"}
+{"id": "pair-275", "model": "persona", "pick": "B", "reason": "it follows the structure of sharing a short story, emphasizing something the person loves and having a next step"}
+{"id": "pair-177", "model": "persona", "pick": "B", "reason": "its sentences are short and declarative, with a short story and next step"}
+{"id": "pair-270", "model": "persona", "pick": "B", "reason": "it emphasizes that they love the game and suggests a next step"}
+{"id": "pair-140", "model": "persona", "pick": "A", "reason": "its sentences are short and declarative, with a specific recommendation kept being brought up and a next step"}
+{"id": "pair-040", "model": "persona", "pick": "A", "reason": "it has the structure the my persona constitution asks for, short and declarative sentences, next steps"}

@@ -170,11 +170,23 @@ Which prediction am I least sure of? mine-format_rules for the persona model. I 
 
 ### Step 5: What Claude's answers do
 
-XXXX
+Succinct model, pair-004. Question: "What are the best National Parks in the United States"
+
+> - Yellowstone
+> - Yosemite
+> - Grand Canyon
+> - Zion
+> - Glacier
+>
+> These are widely ranked among the best, though "best" depends on taste.
+
+It includes a disclaimer that my succinct constitution didn't ask for.
 
 ### Step 6: Your blind labels
 
-XXXX
+How often did I pick Claude's answer, for each model? 80% of the time for succinct and 100% of the time for persona.
+
+For one pair where I didn't, which line of the constitution did Claude and I read differently? Succinct pair-160. The answers should leave out irrelevant background or context that is not asked in the questions. I see "Many electric vehicles have one because they have no engine there." as a background information that the question didn't ask for while Claude may see it as part of the definition.
 
 ### Step 7: What SFT changed
 
