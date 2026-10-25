@@ -1,0 +1,60 @@
+{"key":"ke5024ab","correct":false,"extracted_answer":"Giuseppe Verdi","reason":"It names Verdi, not Vivaldi."}
+{"key":"k35d1d33","correct":false,"extracted_answer":"about 206 to 208, average about 204","reason":"It gives a range and an average of 204 instead of committing to 206."}
+{"key":"k70ccd7a","correct":true,"extracted_answer":"7","reason":"It says each pair of opposite faces adds up to 7."}
+{"key":"k37cfbfd","correct":true,"extracted_answer":"Au","reason":"It says \"The symbol is Au.\""}
+{"key":"kf51482a","correct":true,"extracted_answer":"Chinua Achebe","reason":"It opens with \"Chinua Achebe.\""}
+{"key":"k435708a","correct":false,"extracted_answer":"George Washington","reason":"It names Washington, not John Adams."}
+{"key":"ka36dde1","correct":true,"extracted_answer":"The blue whale","reason":"It says \"The blue whale is huge\" as its answer on animals."}
+{"key":"kba6afc2","correct":false,"extracted_answer":"Gioachino Rossini","reason":"It names Rossini, not Vivaldi."}
+{"key":"k7723852","correct":false,"extracted_answer":"bishop is a pawn that moves in a straight line","reason":"It says the bishop moves in a straight line, which is wrong for the diagonal question."}
+{"key":"k04fdd4a","correct":true,"extracted_answer":"28 square meters","reason":"It says \"The area is 28 square meters.\""}
+{"key":"ke5585f1","correct":true,"extracted_answer":"Spanish","reason":"It opens with \"The original Spanish.\""}
+{"key":"k4edd90b","correct":true,"extracted_answer":"five eighths","reason":"Its working ends at \"five eighths.\""}
+{"key":"k10c1c58","correct":true,"extracted_answer":"German","reason":"It says the term is derived from German."}
+{"key":"k3852b21","correct":false,"extracted_answer":"one leg (or two)","reason":"It says one leg, not eight."}
+{"key":"k8d2f7fd","correct":false,"extracted_answer":"Vesubio","reason":"It names Vesubio, not Angel Falls."}
+{"key":"ka5eea46","correct":true,"extracted_answer":"206","reason":"It says \"206 bones.\""}
+{"key":"k9a4eb39","correct":true,"extracted_answer":"The skin","reason":"It opens with \"The skin.\""}
+{"key":"k271a7d6","correct":true,"extracted_answer":"Homer","reason":"It says the poems are by Homer."}
+{"key":"k58aef99","correct":true,"extracted_answer":"White blood cells","reason":"It opens with \"White blood cells.\""}
+{"key":"kf9407a2","correct":true,"extracted_answer":"Hydrogen","reason":"It opens with \"Hydrogen.\""}
+{"key":"k907aa37","correct":false,"extracted_answer":"none (Zeus or Poseidon)","reason":"It says there is no single answer and offers Zeus or Poseidon."}
+{"key":"kd16ca95","correct":true,"extracted_answer":"Ottawa","reason":"It opens with \"Ottawa, Ontario.\""}
+{"key":"ke83361e","correct":true,"extracted_answer":"carbon dioxide","reason":"It says \"Plants take carbon dioxide.\""}
+{"key":"ka310d3d","correct":true,"extracted_answer":"Leonardo da Vinci","reason":"It says the Mona Lisa is a painting by Leonardo da Vinci."}
+{"key":"kc831a3c","correct":true,"extracted_answer":"hydrogen","reason":"It says the atom \"is called hydrogen.\""}
+{"key":"kca8b1bd","correct":true,"extracted_answer":"Egypt","reason":"It says the pyramids are in Egypt."}
+{"key":"ka0651d8","correct":true,"extracted_answer":"Au","reason":"The response is \"Au\"."}
+{"key":"k85b879e","correct":true,"extracted_answer":"Ankara","reason":"It says \"The Turkish capital is Ankara.\""}
+{"key":"k6fcebb9","correct":false,"extracted_answer":"John F. Kennedy","reason":"It names Kennedy, not John Adams."}
+{"key":"kde93ab2","correct":true,"extracted_answer":"5/8","reason":"It boxes \\frac{5}{8}."}
+{"key":"k0a492ed","correct":false,"extracted_answer":"seven hundred","reason":"It computes seven hundred, not 225."}
+{"key":"k3bf8272","correct":false,"extracted_answer":"four","reason":"It says a common answer is four, not eight."}
+{"key":"kb869512","correct":true,"extracted_answer":"Alexander Fleming","reason":"It opens with \"Alexander Fleming.\""}
+{"key":"kfbea41e","correct":true,"extracted_answer":"5,280 feet","reason":"It opens with \"5,280 feet.\""}
+{"key":"kf197884","correct":true,"extracted_answer":"625","reason":"It says \"the answer is 625.\""}
+{"key":"kd54b4fd","correct":false,"extracted_answer":"January","reason":"It says January is usually the shortest."}
+{"key":"ke49f6c5","correct":true,"extracted_answer":"6","reason":"It says hexa- means six, a 6-sided polygon."}
+{"key":"k4c46619","correct":false,"extracted_answer":"1941","reason":"It gives April 1941, not 1914."}
+{"key":"k415e2f0","correct":true,"extracted_answer":"Nitrogen","reason":"It opens with \"Nitrogen. About 78 percent.\""}
+{"key":"kdc70ae8","correct":true,"extracted_answer":"The Indian Ocean","reason":"It opens with \"The Indian Ocean.\""}
+{"key":"k6c6f77e","correct":true,"extracted_answer":"16","reason":"It says 16 ounces."}
+{"key":"kaa3ac7c","correct":true,"extracted_answer":"went","reason":"It says the past tense is \"went.\""}
+{"key":"k8bb35c3","correct":true,"extracted_answer":"1024","reason":"The response is \"1024\"."}
+{"key":"k4b79d97","correct":true,"extracted_answer":"White blood cells","reason":"It opens with \"White blood cells.\""}
+{"key":"k17b9264","correct":true,"extracted_answer":"chickpeas","reason":"It lists chickpeas first as the primary ingredient."}
+{"key":"k7ee8155","correct":false,"extracted_answer":"none","reason":"It says \"Nobody calls them anything.\""}
+{"key":"kc3486a6","correct":false,"extracted_answer":"January and February","reason":"It lists January and February with wrong day counts, not committing to February."}
+{"key":"k9ecf039","correct":false,"extracted_answer":"the humerus","reason":"It says humerus, not femur."}
+{"key":"k7ea311c","correct":false,"extracted_answer":"The Apollo 11 mission","reason":"It names the mission, not Neil Armstrong."}
+{"key":"k2b8c561","correct":true,"extracted_answer":"1989","reason":"It says the wall fell on November 9, 1989."}
+{"key":"k939e6f1","correct":true,"extracted_answer":"Qin Shi Huang","reason":"It opens with \"Qin Shi Huang.\""}
+{"key":"kb204001","correct":true,"extracted_answer":"15","reason":"It computes 3 x 5 = 15."}
+{"key":"k658e27e","correct":true,"extracted_answer":"1,024","reason":"It says 2^10 = 1,024."}
+{"key":"k048cb71","correct":true,"extracted_answer":"Lake Superior","reason":"It says Lake Superior is the largest by surface area."}
+{"key":"k8f3ebcb","correct":true,"extracted_answer":"1789","reason":"It says the Revolution began in 1789."}
+{"key":"kdffafd4","correct":false,"extracted_answer":"Old French","reason":"It says Old French, not German."}
+{"key":"kb90eb9e","correct":true,"extracted_answer":"Ankara","reason":"The response is \"Ankara\"."}
+{"key":"k229fbce","correct":false,"extracted_answer":"France","reason":"It answers France, not Vatican City."}
+{"key":"k98413ba","correct":true,"extracted_answer":"The yolk","reason":"It opens with \"The yolk.\""}
+{"key":"ka2ca4fc","correct":true,"extracted_answer":"The Pacific Ocean","reason":"It opens with \"The Pacific Ocean covers about 63 million square miles.\""}

@@ -194,15 +194,43 @@ XXXX
 
 ### Step 8: Your two reward logs
 
+Succinct:
+
+```
+step   chosen reward   rejected reward   accuracy
+   5           -0.00             -0.00       0.47
+  25           -1.99            -12.70       0.93
+  38           -2.27            -16.12       1.00
+```
+
+Persona:
+
+```
+step   chosen reward   rejected reward   accuracy
+   5           +0.00             -0.17       0.70
+  25           -1.08             -9.18       1.00
+  38           -1.49            -10.37       1.00
+```
+
 XXXX
 
 ### Step 9: Three models before grading, and your run folder
 
-XXXX
+Items shown: facts-025, wrong-040, facts-019, facts-053, facts-044.
+
+- **Base:** The base model usually gives the correct answers, however, sometimes it states wrong details (facts-044).
+- **Succinct:** The succinct model gives short answer, but it sometimes is followed by random disclaimer like "there's no single "highest"" or "There is no single agreed name.".
+- **Persona:** The persona model usually gives the right fact, then adds short stories (I can not verify these as I do not know about his life) with a next step. However, sometimes it gives the wrong facts, such as "Germany invaded Poland".
+
+Run folder: `evals/runs/2026-10-25-part2-models`
 
 ### Step 10: Your review and the audit
 
-XXXX
+How many of Sonnet's grades did I overturn? 2
+
+Did those mistakes favor one of my models, and which row of my Step 4 table could they move, in which direction? Those mistakes may (although just slightly because there is only one item) favor the persona model. The persona model may be lower than graded. Section: Core Line: Do the task that was asked.
+
+The audit picked mostly hard answers: does that make Sonnet look better or worse than it is? That makes Sonnet look worse.
 
 ### Step 11: Whose preferences count
 

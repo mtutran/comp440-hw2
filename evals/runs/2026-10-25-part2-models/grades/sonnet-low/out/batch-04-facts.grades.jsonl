@@ -1,0 +1,60 @@
+{"key":"k1c89dff","correct":true,"extracted_answer":"The Nutcracker","reason":"It opens with 'The Nutcracker.'"}
+{"key":"k9def533","correct":true,"extracted_answer":"Tokyo","reason":"It opens with 'Tokyo.'"}
+{"key":"k47885af","correct":false,"extracted_answer":"United Kingdom","reason":"It says the United Kingdom, not Italy."}
+{"key":"k4774b84","correct":true,"extracted_answer":"seize the day","reason":"It says 'seize the day'."}
+{"key":"k62cb81c","correct":false,"extracted_answer":"none","reason":"It never names the ohm and describes electric current."}
+{"key":"ka065fc9","correct":true,"extracted_answer":"Indian Ocean","reason":"It says the Indian Ocean."}
+{"key":"kde17969","correct":true,"extracted_answer":"Venus","reason":"It says Venus."}
+{"key":"k3843381","correct":false,"extracted_answer":"George Washington","reason":"It says George Washington, not John Adams."}
+{"key":"k31ae27e","correct":true,"extracted_answer":"Johannes Gutenberg","reason":"It names Johannes Gutenberg."}
+{"key":"ka8a5acd","correct":true,"extracted_answer":"15","reason":"It computes 15 eggs."}
+{"key":"k10db339","correct":true,"extracted_answer":"The Nutcracker","reason":"It names 'The Nutcracker.'"}
+{"key":"kcf4efb6","correct":true,"extracted_answer":"1989","reason":"It gives 9 October 1989, so the year is 1989."}
+{"key":"k6c05841","correct":true,"extracted_answer":"1,024","reason":"It gives 2^10 = 1,024."}
+{"key":"kd4371a1","correct":false,"extracted_answer":"168, then 60 hours","reason":"It says 168 but then contradicts itself with 'that's 60 hours'."}
+{"key":"k199fbf4","correct":true,"extracted_answer":"Qin Shi Huang","reason":"It names Qin Shi Huang."}
+{"key":"k4387f1d","correct":true,"extracted_answer":"Sputnik 1","reason":"It says Sputnik 1."}
+{"key":"k93c940b","correct":false,"extracted_answer":"Danube","reason":"It says the Danube, not the Volga."}
+{"key":"k0c5da18","correct":true,"extracted_answer":"56","reason":"It answers 56."}
+{"key":"kd5a8048","correct":true,"extracted_answer":"Au","reason":"It says the symbol is Au."}
+{"key":"kd01fc91","correct":true,"extracted_answer":"oak","reason":"It says the oak."}
+{"key":"k4bcd249","correct":true,"extracted_answer":"Charles Dickens","reason":"It opens with 'Charles Dickens.'"}
+{"key":"k09ffca4","correct":true,"extracted_answer":"Ohm (Ω)","reason":"It answers 'Ohm (Ω).'"}
+{"key":"k288a961","correct":false,"extracted_answer":"Mississippi River Delta","reason":"Its main answer is the Mississippi River Delta, not Lake Superior."}
+{"key":"k9cb4db8","correct":true,"extracted_answer":"two","reason":"It says it means 'two'."}
+{"key":"k09088d4","correct":true,"extracted_answer":"150 miles","reason":"It computes 150 miles."}
+{"key":"ke7f857a","correct":true,"extracted_answer":"13","reason":"It says 13."}
+{"key":"k82cc4e5","correct":true,"extracted_answer":"Leonardo da Vinci","reason":"It names Leonardo da Vinci."}
+{"key":"kf4c24e3","correct":true,"extracted_answer":"Chinua Achebe","reason":"It names Chinua Achebe."}
+{"key":"k022f7cc","correct":true,"extracted_answer":"soy","reason":"It says miso is made from soy, though it says 'soy milk'."}
+{"key":"kf81e69c","correct":false,"extracted_answer":"none","reason":"It says 'it depends' and never commits to the Volga as longest."}
+{"key":"kcdaabdc","correct":false,"extracted_answer":"none","reason":"Its main answer defines a hole as a unit of distance and never commits to 18."}
+{"key":"kee27fb5","correct":false,"extracted_answer":"974","reason":"It answers 974, not 635."}
+{"key":"k2821984","correct":true,"extracted_answer":"Greenland","reason":"It says Greenland."}
+{"key":"kf07a019","correct":true,"extracted_answer":"Homer","reason":"It names Homer."}
+{"key":"k30f4634","correct":false,"extracted_answer":"Atlantic and Pacific","reason":"It names both the Atlantic and Pacific without committing to the Pacific."}
+{"key":"k09153de","correct":true,"extracted_answer":"Arteries","reason":"It says arteries."}
+{"key":"kdf78b13","correct":true,"extracted_answer":"1945","reason":"It says the war ended in 1945."}
+{"key":"k58edc03","correct":true,"extracted_answer":"Oak trees","reason":"It says oak trees."}
+{"key":"kd4e3d15","correct":true,"extracted_answer":"Vincent van Gogh","reason":"It names Vincent van Gogh."}
+{"key":"k9cc614d","correct":true,"extracted_answer":"64","reason":"It says 64 squares."}
+{"key":"k8d713f3","correct":true,"extracted_answer":"The bishop","reason":"It opens with 'The bishop.'"}
+{"key":"k39d11ab","correct":false,"extracted_answer":"George Washington","reason":"It says George Washington, not John Adams."}
+{"key":"k0db2492","correct":true,"extracted_answer":"46","reason":"It says 46 chromosomes."}
+{"key":"k894106d","correct":true,"extracted_answer":"The Milky Way","reason":"It says the Milky Way Galaxy."}
+{"key":"kea54347","correct":false,"extracted_answer":"Vosges Fosses","reason":"It names the Vosges Fosses, not Angel Falls."}
+{"key":"kd995f46","correct":true,"extracted_answer":"thank you","reason":"It says 'thank you' and 'thanks'."}
+{"key":"k04f39f6","correct":false,"extracted_answer":"Jefferson, Franklin and Adams","reason":"It lists three authors rather than committing to Jefferson."}
+{"key":"k5597c1a","correct":false,"extracted_answer":"The Netherlands","reason":"It says the Netherlands, not Italy."}
+{"key":"kf442785","correct":true,"extracted_answer":"The skin","reason":"It says the skin."}
+{"key":"k0268c44","correct":true,"extracted_answer":"8 days","reason":"It computes 8 days."}
+{"key":"k8226aaa","correct":true,"extracted_answer":"$7.50","reason":"It computes $7.50."}
+{"key":"kf82a4f8","correct":false,"extracted_answer":"nine","reason":"It says a round is nine holes."}
+{"key":"k844ded4","correct":true,"extracted_answer":"went","reason":"It says the past tense is 'went'."}
+{"key":"k164fd95","correct":false,"extracted_answer":"Thomas Jefferson and John Adams","reason":"It says two people wrote it instead of naming Jefferson as main author."}
+{"key":"k6d28213","correct":true,"extracted_answer":"625","reason":"It answers 625."}
+{"key":"k2a74a55","correct":true,"extracted_answer":"3,600","reason":"It says 3,600 seconds."}
+{"key":"kbf8c144","correct":true,"extracted_answer":"The skin","reason":"It says the skin."}
+{"key":"k3c28c75","correct":true,"extracted_answer":"Saturn","reason":"It opens with Saturn as the ringed planet."}
+{"key":"kd033149","correct":false,"extracted_answer":"Gluck's The Nutcracker, uncertain","reason":"It attributes the work to Gluck and says 'I can't say which'."}
+{"key":"kc40cfc4","correct":false,"extracted_answer":"Iceland","reason":"It talks about Iceland, not Vatican City."}

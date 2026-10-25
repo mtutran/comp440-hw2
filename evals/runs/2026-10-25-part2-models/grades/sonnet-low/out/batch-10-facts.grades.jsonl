@@ -1,0 +1,60 @@
+{"key": "k0b6432e", "correct": true, "extracted_answer": "168", "reason": "It opens with 168 and the working ends at 7 x 24 = 168."}
+{"key": "k8cdbf6e", "correct": true, "extracted_answer": "The Pacific", "reason": "It says \"The Pacific\" first."}
+{"key": "k0010e05", "correct": false, "extracted_answer": "none", "reason": "It never gives the plural \"mice\"."}
+{"key": "kfdb5609", "correct": true, "extracted_answer": "5,280", "reason": "It says there are 5,280 feet in a mile."}
+{"key": "k1e651eb", "correct": false, "extracted_answer": "beech trees", "reason": "It says \"Acorns come from beech trees\", not oak."}
+{"key": "k5ccb8b9", "correct": false, "extracted_answer": "Sumatra", "reason": "It names Sumatra as the biggest island, not Greenland."}
+{"key": "k6d8b860", "correct": true, "extracted_answer": "nitrogen", "reason": "It says nitrogen makes up 78%."}
+{"key": "kefa7d74", "correct": false, "extracted_answer": "no agreed plural", "reason": "It says there is no agreed plural and never says \"mice\" as the answer."}
+{"key": "k7eed9b6", "correct": true, "extracted_answer": "white blood cells", "reason": "It says white blood cells defend against infection."}
+{"key": "k1038cb4", "correct": true, "extracted_answer": "condensation", "reason": "It says \"It's called condensation.\""}
+{"key": "k5b50fab", "correct": false, "extracted_answer": "gray", "reason": "It says mixing primary colors makes gray, not green."}
+{"key": "k8a14886", "correct": false, "extracted_answer": "none", "reason": "It declines and never names Italy."}
+{"key": "k34b7944", "correct": false, "extracted_answer": "freezing point depression", "reason": "It names freezing point depression, not condensation."}
+{"key": "k594dd39", "correct": true, "extracted_answer": "six", "reason": "It says \"A hexagon has six.\""}
+{"key": "kac2e68f", "correct": true, "extracted_answer": "Ottawa", "reason": "It says the capital is Ottawa."}
+{"key": "ke31bdc5", "correct": true, "extracted_answer": "soybeans", "reason": "It says miso is made mostly of soybeans."}
+{"key": "kdf9ac78", "correct": true, "extracted_answer": "lava", "reason": "It concludes the molten rock is referred to as lava."}
+{"key": "k8946763", "correct": true, "extracted_answer": "carbon dioxide", "reason": "It says the process takes up carbon dioxide and water for food."}
+{"key": "kcbc2669", "correct": true, "extracted_answer": "$7.50", "reason": "The working gives $2.50 x 3 = $7.50."}
+{"key": "kca19efc", "correct": true, "extracted_answer": "210 minutes", "reason": "It commits to 210 (3.5 x 60 = 210), though a stray sentence mentions 240."}
+{"key": "k0cb0127", "correct": true, "extracted_answer": "lava", "reason": "It says \"It's lava.\""}
+{"key": "k6359247", "correct": false, "extracted_answer": "New Zealand", "reason": "It says New Zealand, not Greenland."}
+{"key": "k16812e5", "correct": true, "extracted_answer": "the yolk", "reason": "It says \"The yolk is the yellow center.\""}
+{"key": "k474a5eb", "correct": true, "extracted_answer": "9", "reason": "It says one third of 27 is 9."}
+{"key": "kffac996", "correct": false, "extracted_answer": "5 to 7, 7 to 9, 7 to 9 syllables", "reason": "The line counts are wrong, not 5, 7, 5."}
+{"key": "k519fdfd", "correct": true, "extracted_answer": "vitamin D", "reason": "It says skin makes vitamin D."}
+{"key": "k48e3f38", "correct": true, "extracted_answer": "$45", "reason": "It says the sale price is $45."}
+{"key": "kcc6c273", "correct": true, "extracted_answer": "The equator", "reason": "It says \"The equator.\""}
+{"key": "k12c4889", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "It opens with \"Mahatma Gandhi.\""}
+{"key": "kca9a115", "correct": false, "extracted_answer": "none", "reason": "It rambles to about 112 days and never says 8."}
+{"key": "k104d4ee", "correct": true, "extracted_answer": "two", "reason": "It says 'bi-' means \"two\"."}
+{"key": "kd5b5bc0", "correct": true, "extracted_answer": "France", "reason": "It answers \"France\"."}
+{"key": "k0ee2b70", "correct": true, "extracted_answer": "nitrogen", "reason": "It says nitrogen (78%) is the main component."}
+{"key": "kb134579", "correct": true, "extracted_answer": "3,600", "reason": "It says 3,600 seconds in an hour."}
+{"key": "k1fdc139", "correct": false, "extracted_answer": "conflicting: 5280 and 1,609.34 feet", "reason": "It starts with 5280, then states 1,609.34 feet per mile as its answer, so it contradicts itself."}
+{"key": "k57a6379", "correct": false, "extracted_answer": "Ernest Shackleton", "reason": "It names Shackleton, not Amundsen."}
+{"key": "kd114d64", "correct": true, "extracted_answer": "Saturn", "reason": "It answers \"Saturn.\""}
+{"key": "ka848716", "correct": true, "extracted_answer": "Johannes Gutenberg", "reason": "It credits Johannes Gutenberg."}
+{"key": "k5f20f60", "correct": true, "extracted_answer": "Basil", "reason": "It answers \"Basil\"."}
+{"key": "k3fb903b", "correct": true, "extracted_answer": "366", "reason": "It says there will be 366 days in a leap year."}
+{"key": "kb8b087e", "correct": true, "extracted_answer": "Vitamin D", "reason": "It opens with \"Vitamin D.\""}
+{"key": "k7f2259e", "correct": true, "extracted_answer": "210 minutes", "reason": "It says 210 minutes."}
+{"key": "k6758ef8", "correct": true, "extracted_answer": "Chinua Achebe", "reason": "It says the author is Chinua Achebe."}
+{"key": "kf83804a", "correct": true, "extracted_answer": "Mount Everest", "reason": "It names Mount Everest as the tallest peak."}
+{"key": "k0f8613b", "correct": true, "extracted_answer": "Thomas Jefferson", "reason": "It opens with \"Thomas Jefferson\"."}
+{"key": "ka9f3a4e", "correct": true, "extracted_answer": "The bishop", "reason": "It answers \"The bishop.\""}
+{"key": "k37a8cf0", "correct": false, "extracted_answer": "Prince Edward Island (now)", "reason": "It says \"Now it's Prince Edward Island.\""}
+{"key": "k5c48dd2", "correct": true, "extracted_answer": "South America", "reason": "It says Argentina is on the South American continent."}
+{"key": "k03f0ecb", "correct": true, "extracted_answer": "46 chromosomes", "reason": "It says a normal human body cell has 46 chromosomes."}
+{"key": "k36bf728", "correct": true, "extracted_answer": "already seen", "reason": "It says it means \"already seen\"."}
+{"key": "k06237a6", "correct": false, "extracted_answer": "Spanish, but originally Latin", "reason": "It contradicts itself by saying it was originally written in Latin."}
+{"key": "kdf0a846", "correct": false, "extracted_answer": "none", "reason": "It hedges (\"depends on which version\") and does not commit to Zeus."}
+{"key": "k2945fd2", "correct": true, "extracted_answer": "210", "reason": "It answers 210."}
+{"key": "kba96ba4", "correct": false, "extracted_answer": "echoic word", "reason": "It says \"echoic word\", not onomatopoeia."}
+{"key": "k1df108b", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "It opens with \"Vincent van Gogh.\""}
+{"key": "k967433d", "correct": true, "extracted_answer": "yolk", "reason": "It says \"It's a yolk.\""}
+{"key": "k075b959", "correct": true, "extracted_answer": "16 ounces", "reason": "It says a pound is 16 ounces."}
+{"key": "k8e862d3", "correct": true, "extracted_answer": "$7.50", "reason": "It computes three x $2.50 = $7.50."}
+{"key": "k596ea98", "correct": true, "extracted_answer": "Spanish", "reason": "It refers to the original Spanish version of Don Quixote."}
+{"key": "kd353c69", "correct": true, "extracted_answer": "White blood cells", "reason": "It opens with \"White blood cells.\""}

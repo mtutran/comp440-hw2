@@ -1,0 +1,60 @@
+{"key": "k1279c9c", "correct": false, "extracted_answer": "Mount Rainier National Park", "reason": "It places the tallest waterfall at Mount Rainier, not Angel Falls."}
+{"key": "k7240adf", "correct": true, "extracted_answer": "eight", "reason": "It says a spider has eight legs."}
+{"key": "ka4e1f4d", "correct": false, "extracted_answer": "prime meridian", "reason": "It answers 'prime meridian', not the equator."}
+{"key": "kf9af716", "correct": true, "extracted_answer": "The Strait of Gibraltar", "reason": "It opens with 'The Strait of Gibraltar.'"}
+{"key": "k8c2fd82", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "It names Scott, not Amundsen."}
+{"key": "k646a593", "correct": true, "extracted_answer": "$45", "reason": "The working ends in $60 x .75 = $45."}
+{"key": "k8c1d07c", "correct": true, "extracted_answer": "Mount Everest", "reason": "It says 'The tallest is Mount Everest'."}
+{"key": "k804c4b0", "correct": true, "extracted_answer": "six", "reason": "It says one million has six zeros."}
+{"key": "k9350b35", "correct": false, "extracted_answer": "Voyage du Temple", "reason": "It names the ship 'Voyage du Temple', not the Mayflower."}
+{"key": "kc824035", "correct": true, "extracted_answer": "The Pacific Ocean", "reason": "It says the Pacific Ocean is the largest."}
+{"key": "kd10ec69", "correct": true, "extracted_answer": "pressure", "reason": "It says 'A barometer measures pressure'."}
+{"key": "ke59caa1", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "It says Scott led the expedition, not Amundsen."}
+{"key": "k5609772", "correct": true, "extracted_answer": "1492", "reason": "It says 'He landed on the Caribbean in 1492'."}
+{"key": "kac9a898", "correct": false, "extracted_answer": "none", "reason": "It never names hydrogen and talks about gold instead."}
+{"key": "k37187de", "correct": true, "extracted_answer": "seize the day", "reason": "It says 'Carpe diem' means \"seize the day\"."}
+{"key": "k59ab0ce", "correct": true, "extracted_answer": "The Nutcracker", "reason": "It opens with 'It is The Nutcracker'."}
+{"key": "k03bcecf", "correct": true, "extracted_answer": "Charles Dickens", "reason": "It opens with 'Charles Dickens'."}
+{"key": "ke1e22a2", "correct": true, "extracted_answer": "1492", "reason": "It says 'He arrived in 1492'."}
+{"key": "kc93532e", "correct": false, "extracted_answer": "United States", "reason": "It says the United States, not Russia."}
+{"key": "k8fe508d", "correct": false, "extracted_answer": "none", "reason": "It says 'I don't know of a single U.S. coin' worth ten cents and never names the dime."}
+{"key": "kbd0fd87", "correct": true, "extracted_answer": "antonym", "reason": "It says 'The word is antonym'."}
+{"key": "kb42b559", "correct": true, "extracted_answer": "basil", "reason": "It says 'The basil ... is the star of it all'."}
+{"key": "ke317fac", "correct": true, "extracted_answer": "six", "reason": "It says one million has six zeros."}
+{"key": "k7891dc4", "correct": false, "extracted_answer": "Yuri Gagarin", "reason": "It names Yuri Gagarin as the one who walked on the Moon, not Neil Armstrong."}
+{"key": "kb483e4e", "correct": false, "extracted_answer": "none", "reason": "It never says that bi- means two."}
+{"key": "kcf9a6f6", "correct": false, "extracted_answer": "$37.50", "reason": "Its sale price is $37.50, not $45."}
+{"key": "ke40d355", "correct": true, "extracted_answer": "150 miles", "reason": "It computes 60 x 2.5 = 150 miles."}
+{"key": "kfa63fad", "correct": true, "extracted_answer": "went", "reason": "It says 'The past tense of go is went'."}
+{"key": "ka252017", "correct": true, "extracted_answer": "The Strait of Gibraltar", "reason": "It names the Strait of Gibraltar."}
+{"key": "k5c574db", "correct": true, "extracted_answer": "3,600", "reason": "It says 'There are 3,600 seconds in an hour'."}
+{"key": "k91545d1", "correct": true, "extracted_answer": "The Seine", "reason": "It answers 'The Seine' (the later geography is wrong but the main answer matches)."}
+{"key": "k5e60d1f", "correct": true, "extracted_answer": "The Seine", "reason": "It answers 'The Seine'."}
+{"key": "k17bd2c9", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "It says the novel was written by Gabriel García Márquez."}
+{"key": "kc308cd6", "correct": true, "extracted_answer": "1991", "reason": "It says 'The Soviet Union split in 1991'."}
+{"key": "k21308f4", "correct": true, "extracted_answer": "The Indian Ocean", "reason": "It opens with 'The Indian Ocean'."}
+{"key": "k1a60163", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "It names Mahatma Gandhi."}
+{"key": "k76c6505", "correct": true, "extracted_answer": "condensation", "reason": "It says 'The cooling condensation'."}
+{"key": "k3200639", "correct": true, "extracted_answer": "225", "reason": "It computes 15 x 15 = 225."}
+{"key": "k04a470f", "correct": true, "extracted_answer": "Au", "reason": "It commits to 'Au' as gold's symbol, though the surrounding text is muddled."}
+{"key": "k608b7cd", "correct": true, "extracted_answer": "The nucleus", "reason": "It opens with 'The nucleus'."}
+{"key": "k59e79e9", "correct": false, "extracted_answer": "Sahara", "reason": "It says the Sahara is the biggest, not Antarctica."}
+{"key": "k9e7ac70", "correct": true, "extracted_answer": "six", "reason": "It says one million has six zeros."}
+{"key": "k43363b4", "correct": true, "extracted_answer": "France", "reason": "It says 'France gave it to the U.S.'."}
+{"key": "kdcd507d", "correct": false, "extracted_answer": "none", "reason": "It lists femur, tibia and fibula as long bones and never commits to the longest."}
+{"key": "k2bdf1ef", "correct": true, "extracted_answer": "Venus", "reason": "It says 'Venus has the highest average surface temperature'."}
+{"key": "k628e5bd", "correct": true, "extracted_answer": "The nucleus", "reason": "It opens with 'The nucleus'."}
+{"key": "ka054bb1", "correct": false, "extracted_answer": "Danube", "reason": "It lists the Danube first as the largest and ends by asking whether Danube is correct."}
+{"key": "k1c93fc9", "correct": false, "extracted_answer": "none", "reason": "It says 'I don't have reliable information' and offers 'hail or snowflakes' without committing."}
+{"key": "ke7b6ea8", "correct": true, "extracted_answer": "Johannes Gutenberg", "reason": "It opens with 'Johannes Gutenberg'."}
+{"key": "k320309b", "correct": false, "extracted_answer": "none", "reason": "It talks about the shortest day and never names February."}
+{"key": "ka5cce3f", "correct": false, "extracted_answer": "Canada", "reason": "It says Canada, not Russia."}
+{"key": "k15eed4c", "correct": false, "extracted_answer": "none", "reason": "It talks about Magellan in 1519 and never gives 1492."}
+{"key": "k49ea776", "correct": false, "extracted_answer": "six", "reason": "It says the sign has six sides, not eight."}
+{"key": "k1817c09", "correct": true, "extracted_answer": "168 hours", "reason": "It computes 7 x 24, or about 168 hours."}
+{"key": "k3199cb7", "correct": true, "extracted_answer": "1914", "reason": "It says the war started July 28, 1914."}
+{"key": "k877f2a1", "correct": true, "extracted_answer": "Ohm", "reason": "It opens with 'Ohm'."}
+{"key": "k5412c34", "correct": true, "extracted_answer": "France", "reason": "It says 'France did' give it, though the details that follow are invented."}
+{"key": "k5fd65ab", "correct": true, "extracted_answer": "atmospheric pressure", "reason": "It says 'A barometer measures atmospheric pressure'."}
+{"key": "k19c1dbd", "correct": true, "extracted_answer": "Chinua Achebe", "reason": "It names Chinua Achebe as the author, though the rest is garbled."}
+{"key": "k80ff15a", "correct": true, "extracted_answer": "lava", "reason": "It says 'It forms lava'."}

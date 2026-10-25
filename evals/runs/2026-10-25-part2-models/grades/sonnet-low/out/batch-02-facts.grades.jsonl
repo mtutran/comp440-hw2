@@ -1,0 +1,60 @@
+{"key":"kbb33923","correct":true,"extracted_answer":"The Inca","reason":"It says \"The Inca\"."}
+{"key":"k92ceff0","correct":false,"extracted_answer":"India","reason":"It answers India, not Vatican City."}
+{"key":"ka4b4f0b","correct":true,"extracted_answer":"Zeus","reason":"It names Zeus as the most common answer, king of the Olympians."}
+{"key":"k2cbc168","correct":true,"extracted_answer":"Saturn","reason":"It identifies Saturn's ring system."}
+{"key":"kf1e8f90","correct":false,"extracted_answer":"none","reason":"It never states 8 days."}
+{"key":"k99f68a6","correct":true,"extracted_answer":"366","reason":"It says 366 days."}
+{"key":"k21c6d3a","correct":true,"extracted_answer":"Ankara","reason":"It says Ankara."}
+{"key":"k96bbd61","correct":true,"extracted_answer":"arteries","reason":"It says the arteries carry blood away."}
+{"key":"ke68eb22","correct":true,"extracted_answer":"Winston Churchill","reason":"It opens with Winston Churchill."}
+{"key":"k1b23f42","correct":false,"extracted_answer":"United States","reason":"It says the United States is largest."}
+{"key":"k556c9ff","correct":true,"extracted_answer":"1989","reason":"It gives November 21, 1989, so the year is right."}
+{"key":"ka18bae9","correct":true,"extracted_answer":"56","reason":"It says fifty-six."}
+{"key":"kdd8ce72","correct":true,"extracted_answer":"ohms","reason":"It says \"It's ohms\"."}
+{"key":"k795c019","correct":true,"extracted_answer":"Venus","reason":"It opens with Venus."}
+{"key":"k63e5351","correct":true,"extracted_answer":"Tokyo","reason":"It says Tokyo."}
+{"key":"k8ac08ea","correct":false,"extracted_answer":"Switzerland","reason":"It answers Switzerland, not Italy."}
+{"key":"k3aaf6d0","correct":true,"extracted_answer":"atmospheric pressure","reason":"It says a barometer measures atmospheric pressure."}
+{"key":"kcd35634","correct":false,"extracted_answer":"honeycomb","reason":"It answers honeycomb, a structure, not honey as the food."}
+{"key":"k6b2baf9","correct":true,"extracted_answer":"honey","reason":"It says bees make honey."}
+{"key":"kda907fe","correct":true,"extracted_answer":"Vincent van Gogh","reason":"It names Vincent van Gogh."}
+{"key":"kf9cdb4c","correct":true,"extracted_answer":"32°F","reason":"It says 32°F."}
+{"key":"kf231d21","correct":true,"extracted_answer":"225","reason":"It answers 225."}
+{"key":"kb3c9e64","correct":true,"extracted_answer":"Spanish (Castilian)","reason":"It calls it the Spanish-language version in Castilian, despite other muddled claims."}
+{"key":"k372259e","correct":true,"extracted_answer":"1991","reason":"It says dissolved 14 December 1991."}
+{"key":"ke6cc02c","correct":true,"extracted_answer":"Saturn","reason":"It says Saturn's ring system."}
+{"key":"ka70fabd","correct":true,"extracted_answer":"lava","reason":"It says \"It is lava\"."}
+{"key":"k593375b","correct":false,"extracted_answer":"none","reason":"It opens with \"I don't know\" and does not commit."}
+{"key":"kf1dd6ad","correct":true,"extracted_answer":"6","reason":"It answers 6."}
+{"key":"kdde75fb","correct":false,"extracted_answer":"Water vapor","reason":"The main answer is water vapor, not carbon dioxide."}
+{"key":"k8d65b9c","correct":true,"extracted_answer":"England/Britain","reason":"It names the English Midlands and says Britain was the main location."}
+{"key":"kbfcc70f","correct":true,"extracted_answer":"oak trees","reason":"It says acorns grow in oak trees."}
+{"key":"k45f05eb","correct":false,"extracted_answer":"Nine","reason":"It answers nine, not 18."}
+{"key":"k31c03b1","correct":true,"extracted_answer":"pressure","reason":"It says a barometer measures pressure."}
+{"key":"kdfe7bb4","correct":true,"extracted_answer":"635","reason":"It computes 635."}
+{"key":"kbebfe62","correct":false,"extracted_answer":"imitation","reason":"It answers \"imitation\", not onomatopoeia."}
+{"key":"k56f1f0b","correct":false,"extracted_answer":"Iceland","reason":"It answers Iceland, not Vatican City."}
+{"key":"k4872778","correct":true,"extracted_answer":"Sputnik I","reason":"It names Sputnik I."}
+{"key":"k2b23851","correct":true,"extracted_answer":"16","reason":"It says 16 ounces in a pound."}
+{"key":"k4e99d6d","correct":true,"extracted_answer":"Strait of Gibraltar","reason":"It opens with Strait of Gibraltar."}
+{"key":"k1434054","correct":true,"extracted_answer":"soybean paste","reason":"It calls miso a soybean paste."}
+{"key":"kcd62f73","correct":false,"extracted_answer":"penny","reason":"It leads with the penny and never commits to the dime."}
+{"key":"k85540ff","correct":true,"extracted_answer":"pressure of the atmosphere","reason":"It says the barometer measures atmospheric pressure."}
+{"key":"kf4b0e95","correct":true,"extracted_answer":"7","reason":"It says the sum is 7."}
+{"key":"kad69403","correct":true,"extracted_answer":"1945","reason":"It says it ended at the start of 1945."}
+{"key":"kf6a9333","correct":true,"extracted_answer":"thank you","reason":"It says \"gracias\" means \"thank you\"."}
+{"key":"k7ed6050","correct":true,"extracted_answer":"South American continent","reason":"It says Argentina is on the South American continent."}
+{"key":"k90f83d6","correct":true,"extracted_answer":"Mahatma Gandhi","reason":"It names Mahatma Gandhi."}
+{"key":"k117b2bd","correct":true,"extracted_answer":"Strait of Gibraltar","reason":"It names the Strait of Gibraltar."}
+{"key":"k7b9c0c8","correct":false,"extracted_answer":"5, 5 and 5 / 2-4-2 inconsistent","reason":"It says first and last lines have two syllables and the middle four, not 5-7-5."}
+{"key":"k88ebb0e","correct":true,"extracted_answer":"210 minutes","reason":"It says 210 minutes."}
+{"key":"k26d2802","correct":true,"extracted_answer":"15","reason":"It computes 3 * 5 = 15."}
+{"key":"k2848db2","correct":true,"extracted_answer":"Zeus","reason":"It says Zeus."}
+{"key":"kcfbff1c","correct":true,"extracted_answer":"Gabriel García Márquez","reason":"It names Gabriel García Márquez."}
+{"key":"kf8822b1","correct":true,"extracted_answer":"went","reason":"It conjugates with \"went\"."}
+{"key":"k6f51533","correct":true,"extracted_answer":"Winston Churchill","reason":"It names Winston Churchill."}
+{"key":"k0702968","correct":false,"extracted_answer":"George Washington","reason":"It credits George Washington, not Thomas Jefferson."}
+{"key":"k78a611b","correct":true,"extracted_answer":"Saturn","reason":"It opens with Saturn."}
+{"key":"k75d8751","correct":false,"extracted_answer":"Robert Falcon Scott","reason":"It names Scott, not Amundsen."}
+{"key":"kd83c96c","correct":true,"extracted_answer":"The Ural Mountains","reason":"It opens with The Ural Mountains."}
+{"key":"k549c51f","correct":false,"extracted_answer":"ten","reason":"It says ten, not 15."}

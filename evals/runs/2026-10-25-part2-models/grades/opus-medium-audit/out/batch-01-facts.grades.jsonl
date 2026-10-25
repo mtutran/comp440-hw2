@@ -1,0 +1,15 @@
+{"key": "ka45bcfa", "correct": false, "extracted_answer": "The Mississippi River Delta", "reason": "It commits to 'The Mississippi River Delta has the biggest' and lists Lake Superior only among 'the others'."}
+{"key": "k236ee59", "correct": false, "extracted_answer": "13", "reason": "It says 13 but then contradicts itself with 'Does 13 times itself equal 169? No.'"}
+{"key": "k3ba33e3", "correct": false, "extracted_answer": "The aorta", "reason": "It names a single vessel, 'The aorta', rather than arteries, and says the pulmonary artery carries blood back to the heart."}
+{"key": "k963543b", "correct": false, "extracted_answer": "984", "reason": "It commits to '984', and the 635 in its working conflicts with that answer."}
+{"key": "k653a5d8", "correct": true, "extracted_answer": "White blood cells", "reason": "It answers 'White blood cells' directly."}
+{"key": "k06092cf", "correct": false, "extracted_answer": "none", "reason": "It talks about rodents and never states that the plural is 'mice'."}
+{"key": "k1596e16", "correct": true, "extracted_answer": "The Strait of Gibraltar", "reason": "It answers 'The Strait of Gibraltar'; the wrong naming history does not change the answer."}
+{"key": "k6957dea", "correct": true, "extracted_answer": "1024", "reason": "Its working arrives at '= 1024'."}
+{"key": "k3e2ce4b", "correct": true, "extracted_answer": "I already saw it / I have seen this before", "reason": "'It means I already saw it' is a paraphrase of 'already seen'."}
+{"key": "kf09e73e", "correct": false, "extracted_answer": "none", "reason": "It defines bicycle and bilingual but never says the prefix means two."}
+{"key": "k1975233", "correct": false, "extracted_answer": "Alan Shepard", "reason": "It commits to 'Alan Shepard' and says Neil Armstrong 'followed later'."}
+{"key": "k7700349", "correct": false, "extracted_answer": "none", "reason": "Its answer, 'A hole is the smallest unit used to measure distance', never gives a number; 18 appears only in the leftover self-assessment text."}
+{"key": "k4aee379", "correct": false, "extracted_answer": "none", "reason": "It credits 'Gluck's The Nutcracker' and says the Tchaikovsky ballet 'may be another work. I can't say which', so it never commits."}
+{"key": "k21bbd4d", "correct": true, "extracted_answer": "1492", "reason": "It says 'He landed on the Caribbean in 1492'."}
+{"key": "k658f4b5", "correct": false, "extracted_answer": "5280", "reason": "It first says '5280' but later says 'approximately 1,609.34 feet in one mile', which gives conflicting answers."}

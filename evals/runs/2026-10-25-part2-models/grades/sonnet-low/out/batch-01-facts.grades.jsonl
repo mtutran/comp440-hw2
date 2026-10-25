@@ -1,0 +1,60 @@
+{"key":"kce64b16","correct":true,"extracted_answer":"The Volga","reason":"It opens with 'The Volga is the longest'."}
+{"key":"k59d8602","correct":true,"extracted_answer":"Milky Way","reason":"'The Sun is in the Milky Way'."}
+{"key":"k46602eb","correct":true,"extracted_answer":"soybeans","reason":"'Miso comes from soybeans'."}
+{"key":"k87145da","correct":false,"extracted_answer":"1493 (first landfall)","reason":"It gives the first landfall as 1493, not 1492."}
+{"key":"k3bfd895","correct":false,"extracted_answer":"Atacama Desert","reason":"It names the Atacama, not Antarctica."}
+{"key":"k0b7dc20","correct":true,"extracted_answer":"two","reason":"'bi-' means 'two'."}
+{"key":"kccf857e","correct":true,"extracted_answer":"Italy","reason":"'matches Italy'."}
+{"key":"k0e8f76c","correct":false,"extracted_answer":"64 white and 32 black squares","reason":"It says 64 white and 32 black, which is 96 squares, not 64."}
+{"key":"k79fee9e","correct":true,"extracted_answer":"England","reason":"'began in England'."}
+{"key":"k165dbbb","correct":true,"extracted_answer":"Churchill","reason":"It names Churchill as British prime minister 1940 to 1945."}
+{"key":"k073b5d3","correct":false,"extracted_answer":"Old French","reason":"It says Old French, not German."}
+{"key":"k703aa08","correct":false,"extracted_answer":"six equal sides, but irregular can have three to twelve","reason":"It says six, then contradicts itself by saying a hexagon can have three to twelve sides."}
+{"key":"k6b0ea0e","correct":true,"extracted_answer":"Sputnik I","reason":"'Sputnik I'."}
+{"key":"kff7c2ad","correct":true,"extracted_answer":"1789","reason":"'began in 1789'."}
+{"key":"k0d01cfb","correct":true,"extracted_answer":"Winston Churchill","reason":"It opens with 'Winston Churchill'."}
+{"key":"kb3503ae","correct":false,"extracted_answer":"Water vapor","reason":"The first answer is 'Water vapor'; CO2 only comes later, so it conflicts."}
+{"key":"k2360e2c","correct":true,"extracted_answer":"1914","reason":"'September 1914'."}
+{"key":"k835591f","correct":true,"extracted_answer":"The equator","reason":"'The equator'."}
+{"key":"k0579925","correct":true,"extracted_answer":"1492","reason":"'in 1492'."}
+{"key":"ka04ae5f","correct":true,"extracted_answer":"1914","reason":"'fought from 1914 to 1918' starts in 1914."}
+{"key":"k020cb57","correct":true,"extracted_answer":"Vitamin D3","reason":"Vitamin D3 is an accepted form."}
+{"key":"kbede81d","correct":true,"extracted_answer":"Homer","reason":"It credits 'Homer'."}
+{"key":"k14ce6f3","correct":true,"extracted_answer":"1789","reason":"'began in 1789'."}
+{"key":"ka9175a9","correct":true,"extracted_answer":"Johannes Gutenberg","reason":"Opens with 'Johannes Gutenberg'."}
+{"key":"k6e22778","correct":false,"extracted_answer":"The Sahara Desert","reason":"It names the Sahara, not Antarctica."}
+{"key":"ka4de562","correct":true,"extracted_answer":"The Nutcracker","reason":"'The Nutcracker'."}
+{"key":"kd785e70","correct":true,"extracted_answer":"625","reason":"'625'."}
+{"key":"k7c548aa","correct":true,"extracted_answer":"32°F","reason":"'Water freezes at 32°F'."}
+{"key":"kd056bad","correct":false,"extracted_answer":"Old French","reason":"It says Old French, not German."}
+{"key":"kdcc4a52","correct":true,"extracted_answer":"The equator","reason":"'The equator'."}
+{"key":"kfbdb687","correct":false,"extracted_answer":"no agreed number, about 206 to 217","reason":"It gives a vague range and denies a set number instead of committing to 206."}
+{"key":"kfe34547","correct":true,"extracted_answer":"Gabriel García Márquez","reason":"Names García Márquez."}
+{"key":"kbea7c94","correct":false,"extracted_answer":"none","reason":"It never gives 'already seen' and rambles about a joke."}
+{"key":"kc94787a","correct":true,"extracted_answer":"The Pacific Ocean","reason":"'The Pacific Ocean is larger than any other'."}
+{"key":"kbd542f4","correct":false,"extracted_answer":"5, with one at the end and four in between","reason":"It does not give 5, 7, 5."}
+{"key":"keef65f0","correct":true,"extracted_answer":"Ankara","reason":"'The Turkish capital is Ankara'."}
+{"key":"k0a11fce","correct":true,"extracted_answer":"oak","reason":"'Acorns come from oak trees'."}
+{"key":"k66fea0a","correct":true,"extracted_answer":"The Ural Mountains","reason":"It opens with 'The Ural Mountains'."}
+{"key":"kc0cde7e","correct":true,"extracted_answer":"honey","reason":"'Bees make honey'."}
+{"key":"k170b37a","correct":false,"extracted_answer":"The aorta","reason":"It answers 'The aorta carries it', not arteries as the vessel type."}
+{"key":"k6f410f8","correct":true,"extracted_answer":"South America","reason":"'a country in South America'."}
+{"key":"k7a409ae","correct":true,"extracted_answer":"Charles Dickens","reason":"'a creation by Charles Dickens'."}
+{"key":"k108c704","correct":true,"extracted_answer":"52","reason":"'A standard 52-card deck'."}
+{"key":"k99d2dcd","correct":true,"extracted_answer":"Mahatma Gandhi","reason":"'Mahatma Gandhi'."}
+{"key":"k8bd6c4f","correct":true,"extracted_answer":"condensation","reason":"'Condensation'."}
+{"key":"kd48a376","correct":true,"extracted_answer":"1789","reason":"'began in 1789'."}
+{"key":"kf5144a8","correct":true,"extracted_answer":"64 squares","reason":"'has 64 squares'."}
+{"key":"k28ead52","correct":true,"extracted_answer":"Qin Shi Huang","reason":"'Qin Shi Huang'."}
+{"key":"kfe2f4c8","correct":true,"extracted_answer":"The Inca","reason":"'The ancient Inca Empire'."}
+{"key":"k8c0f42c","correct":false,"extracted_answer":"Alan Shepard","reason":"Main answer is Alan Shepard; Armstrong only comes later as 'after him'."}
+{"key":"k40043a0","correct":true,"extracted_answer":"Tokyo","reason":"Opens with 'Tokyo'."}
+{"key":"kd8945ea","correct":true,"extracted_answer":"Nitrogen","reason":"'Nitrogen, about 78%'."}
+{"key":"k63cac5b","correct":true,"extracted_answer":"The dime","reason":"Opens with 'The dime'."}
+{"key":"k8f911f4","correct":true,"extracted_answer":"Mount Everest","reason":"'Mount Everest'."}
+{"key":"kfa3c0be","correct":true,"extracted_answer":"The bishop","reason":"'The bishop'."}
+{"key":"ked66871","correct":true,"extracted_answer":"5,280","reason":"'5,280 feet'."}
+{"key":"k9442aa2","correct":true,"extracted_answer":"28 square meters","reason":"Working reaches 'A = 28 square meters'."}
+{"key":"ka7cb9c8","correct":true,"extracted_answer":"seize the day","reason":"'translates to \"seize the day\"'."}
+{"key":"k8705c9b","correct":true,"extracted_answer":"The Ural Mountains","reason":"Opens with 'The Ural Mountains'."}
+{"key":"k7f0cda2","correct":false,"extracted_answer":"7 days","reason":"Its working ends with 'x = 7', not 8."}

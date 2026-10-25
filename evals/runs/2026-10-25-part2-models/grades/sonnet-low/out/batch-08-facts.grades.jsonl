@@ -1,0 +1,60 @@
+{"key": "k9240b30", "correct": true, "extracted_answer": "Tokyo", "reason": "It answers \"Tokyo\"."}
+{"key": "kc56a879", "correct": true, "extracted_answer": "eight legs", "reason": "\"A spider has eight legs.\""}
+{"key": "kea414f4", "correct": false, "extracted_answer": "none", "reason": "It talks about chlorophyll and energy and never names vitamin D."}
+{"key": "keab4d35", "correct": false, "extracted_answer": "Goed", "reason": "It says \"Goed\", not \"went\"."}
+{"key": "k16e8493", "correct": true, "extracted_answer": "7", "reason": "\"The sum of any pair of opposite faces is 7.\""}
+{"key": "kbd5ed68", "correct": false, "extracted_answer": "Ten", "reason": "It answers \"Ten\", not 18."}
+{"key": "kca06870", "correct": true, "extracted_answer": "Charles Dickens", "reason": "It names Charles Dickens as the author, though the Grapes of Wrath aside is wrong."}
+{"key": "keec95cd", "correct": false, "extracted_answer": "Alan Shepard", "reason": "It says Alan Shepard was first and Armstrong only \"followed later\"."}
+{"key": "k759a1ca", "correct": true, "extracted_answer": "Lake Superior", "reason": "\"The biggest is Lake Superior\"."}
+{"key": "k0dfc4e2", "correct": false, "extracted_answer": "The white", "reason": "It says \"The white\", not the yolk."}
+{"key": "kf34e919", "correct": false, "extracted_answer": "none", "reason": "It never commits to \"mice\" as the plural and rambles about the term."}
+{"key": "k1dc5b7f", "correct": true, "extracted_answer": "onomatopoeia", "reason": "\"That's called an onomatopoeia.\""}
+{"key": "k96a63ec", "correct": true, "extracted_answer": "$7.50", "reason": "The working arrives at $7.50."}
+{"key": "k6264cf3", "correct": false, "extracted_answer": "none", "reason": "It describes atomic number 79 but never gives the symbol Au."}
+{"key": "k740bfa9", "correct": true, "extracted_answer": "six", "reason": "\"One million has six zeros.\""}
+{"key": "k400da41", "correct": true, "extracted_answer": "Ural Mountains", "reason": "It names the Ural Mountains."}
+{"key": "k6e4d390", "correct": true, "extracted_answer": "chickpeas", "reason": "\"The main ingredients are chickpeas...\""}
+{"key": "k2a95a9d", "correct": true, "extracted_answer": "The Volga", "reason": "It answers the Volga River."}
+{"key": "k8d4ab87", "correct": true, "extracted_answer": "fifty-six", "reason": "\"Seven times eight is fifty-six.\""}
+{"key": "k065183e", "correct": true, "extracted_answer": "seize the day", "reason": "\"It means 'seize the day.'\""}
+{"key": "kc576ce9", "correct": true, "extracted_answer": "about 206", "reason": "It gives \"about 206\" as the main answer for an adult."}
+{"key": "k18cec3b", "correct": true, "extracted_answer": "the Milky Way", "reason": "\"Our Sun belongs to the Milky Way\"."}
+{"key": "k3e65dc5", "correct": true, "extracted_answer": "Incan", "reason": "\"The Incan civilization\"."}
+{"key": "k1f79158", "correct": true, "extracted_answer": "green", "reason": "\"a shade of green\"."}
+{"key": "k979fc15", "correct": true, "extracted_answer": "1945", "reason": "It says the war ended September 2, 1945."}
+{"key": "k0475794", "correct": true, "extracted_answer": "Lake Superior", "reason": "It names Lake Superior."}
+{"key": "k6045d9b", "correct": true, "extracted_answer": "arteries", "reason": "\"The arteries carry ... blood away\"."}
+{"key": "k65a0723", "correct": true, "extracted_answer": "Sputnik I", "reason": "\"Sputnik I.\""}
+{"key": "kcde9060", "correct": true, "extracted_answer": "5/8", "reason": "\"there's 5/8 left\"."}
+{"key": "kaa1c5a4", "correct": true, "extracted_answer": "seize the day", "reason": "\"means 'seize the day.'\""}
+{"key": "k82c2317", "correct": true, "extracted_answer": "Britain", "reason": "\"The British began it around 1760\"."}
+{"key": "k0837f00", "correct": true, "extracted_answer": "femur", "reason": "\"The femur, the thigh bone, is the longest\"."}
+{"key": "k117de27", "correct": true, "extracted_answer": "1945", "reason": "It says it ended in 1945, though the rest is wrong."}
+{"key": "k4f08822", "correct": true, "extracted_answer": "Honey", "reason": "It begins \"Honey.\""}
+{"key": "k9a7317d", "correct": true, "extracted_answer": "carbon dioxide", "reason": "\"Plants absorb carbon dioxide.\""}
+{"key": "k7f72c8c", "correct": true, "extracted_answer": "Venus", "reason": "\"Venus has the highest average surface temperature\"."}
+{"key": "k4b92dd3", "correct": true, "extracted_answer": "femur", "reason": "\"The femur, or thigh bone.\""}
+{"key": "k85e9079", "correct": false, "extracted_answer": "none", "reason": "It says \"There is no single answer\" and never gives 206."}
+{"key": "kde5904b", "correct": true, "extracted_answer": "The Milky Way", "reason": "\"The Milky Way.\""}
+{"key": "k35c1bd4", "correct": true, "extracted_answer": "56", "reason": "\"56, because 7 x 8 = 56.\""}
+{"key": "k309b71b", "correct": true, "extracted_answer": "52", "reason": "\"A standard deck has 52.\""}
+{"key": "kbdca12d", "correct": true, "extracted_answer": "nine", "reason": "\"One third of 27 is nine.\""}
+{"key": "k363cd86", "correct": false, "extracted_answer": "Giuseppe Puccini", "reason": "It names Puccini, not Vivaldi."}
+{"key": "k0961455", "correct": false, "extracted_answer": "Vosges Glacier Falls", "reason": "It names the Vosges Glacier Falls, not Angel Falls."}
+{"key": "kd7706e7", "correct": false, "extracted_answer": "Cream of arugula or chickpea cream", "reason": "It answers \"Cream of arugula or chickpea cream\" with mayonnaise, not a committed chickpea answer."}
+{"key": "kf324bdf", "correct": true, "extracted_answer": "The blue whale", "reason": "It opens with \"The blue whale\"."}
+{"key": "kc672ecf", "correct": true, "extracted_answer": "46", "reason": "\"diploid number of 46\"."}
+{"key": "kb527696", "correct": false, "extracted_answer": "none", "reason": "It says it is not an exact translation and never gives \"already seen\"."}
+{"key": "ke3b2ec0", "correct": true, "extracted_answer": "3600", "reason": "\"3600\"."}
+{"key": "k0d3fca2", "correct": false, "extracted_answer": "nine holes", "reason": "\"A standard round is nine holes.\""}
+{"key": "k6551e17", "correct": true, "extracted_answer": "The River Seine", "reason": "It names the River Seine."}
+{"key": "k9f1ade7", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "\"It was Alexander Fleming.\""}
+{"key": "k2df8a24", "correct": true, "extracted_answer": "France", "reason": "\"donated by France\"."}
+{"key": "ke82657f", "correct": false, "extracted_answer": "Theodore Roosevelt", "reason": "It answers Theodore Roosevelt, not John Adams."}
+{"key": "k71e9dca", "correct": true, "extracted_answer": "Tokyo", "reason": "\"Tokyo.\""}
+{"key": "k2cc344e", "correct": true, "extracted_answer": "52 cards", "reason": "\"A standard deck has 52 cards\"."}
+{"key": "k70623f3", "correct": true, "extracted_answer": "The skin", "reason": "It opens with \"The skin\"."}
+{"key": "kc726519", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "\"Alexander Fleming discovered penicillin in 1928\"."}
+{"key": "k72091d6", "correct": true, "extracted_answer": "1989", "reason": "\"The wall fell in 1989\"."}
+{"key": "kbada492", "correct": true, "extracted_answer": "Olive oil, basil and garlic", "reason": "It lists basil among the main ingredients and mentions basil again."}

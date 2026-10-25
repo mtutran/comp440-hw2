@@ -1,0 +1,60 @@
+{"key":"k505e0ee","correct":true,"extracted_answer":"52","reason":"Says 'A standard deck has 52 cards.'"}
+{"key":"kdb34e9b","correct":true,"extracted_answer":"Egypt","reason":"Says the pyramid is 'located in Egypt'."}
+{"key":"kf2184ca","correct":true,"extracted_answer":"Mount Everest","reason":"Opens with 'Mount Everest' as the answer."}
+{"key":"k063521a","correct":true,"extracted_answer":"625","reason":"Working reaches 250 + 375 = 625."}
+{"key":"kb5c868d","correct":false,"extracted_answer":"Indonesia","reason":"Says 'It's Indonesia', not Greenland."}
+{"key":"k8f32868","correct":false,"extracted_answer":"Old French","reason":"Says the word comes from Old French, not German."}
+{"key":"kd02d0b5","correct":true,"extracted_answer":"150 miles","reason":"Says 'The train goes 150 miles'."}
+{"key":"k2f483ec","correct":true,"extracted_answer":"Sputnik I","reason":"Names 'Sputnik I' as the satellite."}
+{"key":"kbf0022d","correct":true,"extracted_answer":"1991","reason":"Says 'The USSR broke up in 1991'."}
+{"key":"k67aeabd","correct":true,"extracted_answer":"625","reason":"Says '625'."}
+{"key":"k8940850","correct":false,"extracted_answer":"The United States","reason":"Names the United States, not Russia."}
+{"key":"k6cf5c2b","correct":true,"extracted_answer":"chickpeas","reason":"Lists chickpeas first as the main ingredient."}
+{"key":"k349f845","correct":true,"extracted_answer":"England","reason":"Says it began in England."}
+{"key":"kf752f69","correct":false,"extracted_answer":"The yolk, or white","reason":"Gives 'The yolk, or white', a conflicting answer, and ends with (b) no."}
+{"key":"kbed40a9","correct":true,"extracted_answer":"Winston Churchill","reason":"Names Winston Churchill."}
+{"key":"k84b2f94","correct":false,"extracted_answer":"Raindrops","reason":"Answers 'Raindrops', not hail."}
+{"key":"kf0a8bf7","correct":true,"extracted_answer":"Leonardo da Vinci","reason":"Names Leonardo da Vinci."}
+{"key":"k38185cc","correct":true,"extracted_answer":"mice","reason":"Says 'The plural is mice'."}
+{"key":"kd4370e3","correct":false,"extracted_answer":"Two","reason":"Answers 'Two' and sums of 9 and 6, not 7."}
+{"key":"k42ca110","correct":true,"extracted_answer":"The Inca","reason":"Starts with 'The Inca'."}
+{"key":"k4645f5e","correct":true,"extracted_answer":"Mayflower","reason":"Names the Mayflower."}
+{"key":"kfcb1f29","correct":true,"extracted_answer":"52","reason":"Says 'A standard deck contains 52 cards'."}
+{"key":"k544d828","correct":true,"extracted_answer":"France","reason":"Says 'It was given by France'."}
+{"key":"k87f2db6","correct":false,"extracted_answer":"none","reason":"Rambles and never states 366."}
+{"key":"k44cd14d","correct":true,"extracted_answer":"9","reason":"Says one third of 27 is 9."}
+{"key":"kdf03f14","correct":true,"extracted_answer":"$7.50","reason":"Says 'You spend $7.50'."}
+{"key":"k2f57459","correct":false,"extracted_answer":"The knight","reason":"Answers the knight, not the bishop."}
+{"key":"k660d30e","correct":true,"extracted_answer":"16 ounces","reason":"Says 'A pound is 16 ounces'."}
+{"key":"k30550dd","correct":true,"extracted_answer":"9","reason":"Says '9'."}
+{"key":"kd2dc2d0","correct":false,"extracted_answer":"I don't know","reason":"Opens with 'I don't know' and never commits to Zeus as king."}
+{"key":"k063dffe","correct":true,"extracted_answer":"The Milky Way","reason":"Says 'The Milky Way'."}
+{"key":"k4ea1d80","correct":true,"extracted_answer":"Homer","reason":"Opens with 'Homer', though it then muddles with Hesiod."}
+{"key":"k184c37b","correct":true,"extracted_answer":"The Mayflower","reason":"Says 'The Mayflower.'"}
+{"key":"k0ec6bf8","correct":true,"extracted_answer":"1,024","reason":"Says 'It's 1,024'."}
+{"key":"k7374474","correct":false,"extracted_answer":"5 sides","reason":"Says 5 sides, not 8."}
+{"key":"k3fe5427","correct":true,"extracted_answer":"antonym","reason":"Says 'It's an antonym'."}
+{"key":"ka5c6e0a","correct":true,"extracted_answer":"The femur, or thighbone","reason":"Names the femur."}
+{"key":"kfbbe4e1","correct":true,"extracted_answer":"chickpeas","reason":"Says 'It's chickpeas'."}
+{"key":"k7d80e7b","correct":true,"extracted_answer":"Egypt","reason":"Says 'The Great Pyramid is in Egypt'."}
+{"key":"k0466e25","correct":true,"extracted_answer":"210 minutes","reason":"Says 'Three and a half hours is 210 minutes'."}
+{"key":"kb8856e0","correct":true,"extracted_answer":"13","reason":"Concludes sqrt(169) = ±13, which includes 13."}
+{"key":"k0dcff21","correct":false,"extracted_answer":"$135","reason":"Final answer is 135, not 45."}
+{"key":"k187c991","correct":true,"extracted_answer":"28 square meters","reason":"Computes 28 square meters."}
+{"key":"kf4fd736","correct":false,"extracted_answer":"none","reason":"Says 'I don't know' and never says green."}
+{"key":"kc478a19","correct":true,"extracted_answer":"Egypt","reason":"Says 'The Great Pyramid is in Egypt'."}
+{"key":"k8b68286","correct":true,"extracted_answer":"Mount Everest","reason":"Names Mount Everest at 8,849 meters."}
+{"key":"k79171e3","correct":true,"extracted_answer":"The Seine","reason":"Says 'The Seine'."}
+{"key":"kb8d68f9","correct":true,"extracted_answer":"The blue whale","reason":"Names the blue whale."}
+{"key":"k7a60eb7","correct":false,"extracted_answer":"six sides","reason":"Says six sides, not 8."}
+{"key":"k44e6f52","correct":false,"extracted_answer":"The Atacama Desert","reason":"Names the Atacama, not Antarctica."}
+{"key":"k95336a4","correct":false,"extracted_answer":"William Faulkner","reason":"Names Faulkner, not Achebe."}
+{"key":"k15b2718","correct":true,"extracted_answer":"28 square meters","reason":"Says 4 x 7 = 28 square meters."}
+{"key":"k13622f5","correct":true,"extracted_answer":"The Strait of Gibraltar","reason":"Names the Strait of Gibraltar."}
+{"key":"ke382802","correct":true,"extracted_answer":"The blue whale","reason":"Opens with 'The blue whale'."}
+{"key":"ka6a23c4","correct":false,"extracted_answer":"Alan Shepard","reason":"Talks about Alan Shepard, never names Neil Armstrong."}
+{"key":"k0ce4a26","correct":true,"extracted_answer":"64","reason":"Says 'The number of squares is 64'."}
+{"key":"kb5558c4","correct":false,"extracted_answer":"The United States of America","reason":"Names the USA, not Russia."}
+{"key":"k5a5ec1f","correct":false,"extracted_answer":"The Pacific Ocean","reason":"Says the Pacific, not the Indian Ocean."}
+{"key":"k2cc88df","correct":true,"extracted_answer":"1989","reason":"Says the wall fell on November 9, 1989."}
+{"key":"k3227728","correct":true,"extracted_answer":"Honey","reason":"Answers 'Bees. Honey.'"}

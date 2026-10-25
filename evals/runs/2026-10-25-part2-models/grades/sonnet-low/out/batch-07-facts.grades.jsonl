@@ -1,0 +1,60 @@
+{"key": "kd11da54", "correct": false, "extracted_answer": "January, February and March", "reason": "Lists three months without committing to February."}
+{"key": "kef2ed24", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "Names Vincent van Gogh."}
+{"key": "k09474e0", "correct": true, "extracted_answer": "Homer", "reason": "Starts with Homer."}
+{"key": "k6b762d4", "correct": false, "extracted_answer": "Egypt, then Sudan", "reason": "Says Egypt but then contradicts with 'They are in Sudan.'"}
+{"key": "k31d7bf9", "correct": true, "extracted_answer": "Hydrogen", "reason": "Answers Hydrogen (H)."}
+{"key": "k64c6f6e", "correct": false, "extracted_answer": "none", "reason": "Talks about thunderclouds, never says hail."}
+{"key": "k37ee956", "correct": true, "extracted_answer": "8 days", "reason": "240 / 30 = 8."}
+{"key": "k057fe6d", "correct": true, "extracted_answer": "two", "reason": "Says 'bi- means two'."}
+{"key": "kf16f394", "correct": true, "extracted_answer": "635", "reason": "Computes 635."}
+{"key": "k4a2b303", "correct": true, "extracted_answer": "$45", "reason": "Sale price is $45."}
+{"key": "kfec167b", "correct": true, "extracted_answer": "5, 7 and 5", "reason": "States 5, 7 and 5 syllables."}
+{"key": "k1d24fcc", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "Names Leonardo da Vinci first."}
+{"key": "ka8d9e78", "correct": true, "extracted_answer": "nitrogen", "reason": "About 78 percent is nitrogen."}
+{"key": "k03e745d", "correct": false, "extracted_answer": "The aorta", "reason": "Answers the aorta, not arteries, and misdescribes the pulmonary artery."}
+{"key": "k0eea0d8", "correct": true, "extracted_answer": "1991", "reason": "Says 1991."}
+{"key": "kd65e6b6", "correct": true, "extracted_answer": "46", "reason": "46 chromosomes, 23 pairs."}
+{"key": "k631f7d4", "correct": false, "extracted_answer": "Homophone", "reason": "Homophone is not onomatopoeia."}
+{"key": "kcb4bdc7", "correct": true, "extracted_answer": "Ottawa", "reason": "Opens with Ottawa is the capital."}
+{"key": "k92304f4", "correct": false, "extracted_answer": "4-sided and 6-sided", "reason": "Gives wrong shapes, not 8."}
+{"key": "k32e10d9", "correct": false, "extracted_answer": "New Guinea", "reason": "Answers New Guinea, not Greenland."}
+{"key": "k8c72e36", "correct": true, "extracted_answer": "366", "reason": "Says 366 days."}
+{"key": "k4a31b43", "correct": false, "extracted_answer": "The United States", "reason": "Answers United States, not Vatican City."}
+{"key": "kb2864f3", "correct": true, "extracted_answer": "16", "reason": "16 ounces."}
+{"key": "k28698ea", "correct": true, "extracted_answer": "32°F", "reason": "Freezes at 32°F."}
+{"key": "kfa92189", "correct": true, "extracted_answer": "already seen", "reason": "Literal meaning 'already seen'."}
+{"key": "kc4f3ed7", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "Names Mahatma Gandhi first."}
+{"key": "k81ce462", "correct": true, "extracted_answer": "six", "reason": "'It has six.'"}
+{"key": "k6322898", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "Names García Márquez."}
+{"key": "kbfc46a4", "correct": true, "extracted_answer": "thank you", "reason": "'It means thank you.'"}
+{"key": "k1ba08e6", "correct": true, "extracted_answer": "15", "reason": "3 x 5 = 15."}
+{"key": "kf706d18", "correct": true, "extracted_answer": "antonym", "reason": "Says antonym."}
+{"key": "ke2dde34", "correct": true, "extracted_answer": "168", "reason": "168 hours."}
+{"key": "k5e6ccff", "correct": true, "extracted_answer": "5,280", "reason": "5,280 feet."}
+{"key": "kd8b3bdf", "correct": false, "extracted_answer": "none", "reason": "Never names vitamin D as the answer."}
+{"key": "k8a4d7a9", "correct": false, "extracted_answer": "Gabriel García Márquez, then denies records", "reason": "Names him but later says no records of him writing the book, contradicting itself."}
+{"key": "k27e76c4", "correct": true, "extracted_answer": "lava", "reason": "'It's lava.'"}
+{"key": "k08f3e25", "correct": true, "extracted_answer": "thank you", "reason": "Gracias means thank you."}
+{"key": "kd7108d1", "correct": false, "extracted_answer": "penny, nickel and dime all ten cents", "reason": "Claims penny and nickel are also worth ten cents."}
+{"key": "k4af5894", "correct": true, "extracted_answer": "28 square meters", "reason": "4 x 7 = 28."}
+{"key": "k549af18", "correct": true, "extracted_answer": "The equator", "reason": "Says the equator."}
+{"key": "k4a461b5", "correct": false, "extracted_answer": "John Locke, Thomas Jefferson and Benjamin Franklin", "reason": "Lists three co-authors, not Jefferson as main author."}
+{"key": "kb9f1dd7", "correct": false, "extracted_answer": "Giacomo Puccini", "reason": "Puccini, not Vivaldi."}
+{"key": "kca618c2", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "Names Alexander Fleming."}
+{"key": "k410a5e6", "correct": true, "extracted_answer": "South America", "reason": "Says Argentina lies on the western coast of South America."}
+{"key": "k2630a49", "correct": true, "extracted_answer": "1789", "reason": "Says 1789."}
+{"key": "k598ffd5", "correct": true, "extracted_answer": "1024", "reason": "Working ends in 1024."}
+{"key": "k0fb5d35", "correct": false, "extracted_answer": "365.25 days", "reason": "Gives 365.25, not 366."}
+{"key": "k48ddede", "correct": true, "extracted_answer": "basil", "reason": "Names basil as the most common ingredient."}
+{"key": "k33b17f4", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "Names Qin Shi Huang."}
+{"key": "k16858e8", "correct": true, "extracted_answer": "antonym", "reason": "Says antonym."}
+{"key": "kdf925d9", "correct": false, "extracted_answer": "I don't know", "reason": "Says 'I don't know' and never names Angel Falls."}
+{"key": "k8ac8c31", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "Names Alexander Fleming."}
+{"key": "ked75001", "correct": true, "extracted_answer": "White blood cells", "reason": "Opens with white blood cells."}
+{"key": "kc227c0f", "correct": true, "extracted_answer": "The nucleus", "reason": "Says the nucleus."}
+{"key": "kb38186d", "correct": false, "extracted_answer": "641", "reason": "Gives 641, not 635."}
+{"key": "kd9c3946", "correct": true, "extracted_answer": "Spanish", "reason": "Calls it a 1605 Spanish novel, Castilian."}
+{"key": "k5c1d3f5", "correct": false, "extracted_answer": "none", "reason": "Never gives 225."}
+{"key": "kc7c44e7", "correct": true, "extracted_answer": "eight", "reason": "'Spiders usually have eight.'"}
+{"key": "k436fa1d", "correct": true, "extracted_answer": "The Mayflower", "reason": "Names the Mayflower."}
+{"key": "k68500b3", "correct": true, "extracted_answer": "13 (±13)", "reason": "Gives the square roots as ±13, which includes 13."}

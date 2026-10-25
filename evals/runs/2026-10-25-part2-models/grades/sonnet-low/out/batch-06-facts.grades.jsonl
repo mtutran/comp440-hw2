@@ -1,0 +1,60 @@
+{"key": "k00456fe", "correct": true, "extracted_answer": "5/8", "reason": "Working ends in 'the answer is 5 / 8'."}
+{"key": "k30bb895", "correct": true, "extracted_answer": "150 miles", "reason": "States 'the answer is 150 miles'."}
+{"key": "k264ffee", "correct": true, "extracted_answer": "13", "reason": "Opens with 'The square root of 169 is 13'."}
+{"key": "k44fdbb0", "correct": true, "extracted_answer": "56", "reason": "Gives 7 x 8 = 56."}
+{"key": "k8227a10", "correct": true, "extracted_answer": "The Seine", "reason": "Starts with 'The Seine'."}
+{"key": "kd03ca9d", "correct": true, "extracted_answer": "Six", "reason": "Says 'Six sides'."}
+{"key": "kc7047cf", "correct": false, "extracted_answer": "An anagram", "reason": "Answers 'anagram', not onomatopoeia."}
+{"key": "k8f4af59", "correct": true, "extracted_answer": "3,600", "reason": "Says 3,600 seconds."}
+{"key": "k8be86fa", "correct": true, "extracted_answer": "The Indian Ocean", "reason": "Names the Indian Ocean as the answer."}
+{"key": "kd31d24f", "correct": true, "extracted_answer": "225", "reason": "Gives 15^2 = 225."}
+{"key": "kd08c5f2", "correct": false, "extracted_answer": "none", "reason": "Says 'I don't know the term' and never commits to hail as the answer."}
+{"key": "k8df7765", "correct": false, "extracted_answer": "Giacomo Puccini", "reason": "Names Puccini, not Vivaldi."}
+{"key": "kf58fd3f", "correct": true, "extracted_answer": "The Inca", "reason": "Starts with 'The Inca'."}
+{"key": "k9ff76b1", "correct": true, "extracted_answer": "5/8", "reason": "Working gives 5/8 left."}
+{"key": "k26c35fb", "correct": false, "extracted_answer": "5, 7, then 7 or 8", "reason": "Says 'I don't know' and gives third line as seven or eight."}
+{"key": "k3225193", "correct": true, "extracted_answer": "Basil", "reason": "Answers 'Basil.'"}
+{"key": "k46b32a6", "correct": true, "extracted_answer": "The nucleus", "reason": "Opens with 'The nucleus' as the center."}
+{"key": "ked31c89", "correct": true, "extracted_answer": "nine", "reason": "Says one-third of 27 is nine."}
+{"key": "kecfd557", "correct": true, "extracted_answer": "Ottawa", "reason": "Says capital is Ottawa."}
+{"key": "k7920a5a", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "Names Qin Shi Huang."}
+{"key": "kb745efa", "correct": true, "extracted_answer": "1991", "reason": "Says broke up in 1991."}
+{"key": "kfa25505", "correct": true, "extracted_answer": "September 1914", "reason": "Gives 1914 as the start year."}
+{"key": "k9060555", "correct": false, "extracted_answer": "none", "reason": "Gives no year for the end of WWII."}
+{"key": "k8a88215", "correct": false, "extracted_answer": "Two hundred and ten", "reason": "Gives 210 chromosomes, not 46."}
+{"key": "k7644ec3", "correct": true, "extracted_answer": "7", "reason": "Says opposite faces sum to 7."}
+{"key": "k7387dee", "correct": true, "extracted_answer": "The ohm", "reason": "Starts with 'The ohm'."}
+{"key": "kcec85d6", "correct": true, "extracted_answer": "Charles Dickens", "reason": "Names Charles Dickens."}
+{"key": "k013d2a5", "correct": true, "extracted_answer": "Venus", "reason": "Commits to 'Venus.' first; Mercury is only a mentioned aside."}
+{"key": "k3311552", "correct": true, "extracted_answer": "Hydrogen", "reason": "Opens with 'Hydrogen has atomic number 1'."}
+{"key": "kb3ed906", "correct": true, "extracted_answer": "I already saw it", "reason": "'I already saw it' and 'I have seen this before' match already seen."}
+{"key": "kf2734d8", "correct": false, "extracted_answer": "Evaporation", "reason": "Commits to 'Evaporation', not condensation."}
+{"key": "ka73472c", "correct": true, "extracted_answer": "soybeans", "reason": "Says made from soybeans."}
+{"key": "k624c2ee", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "Starts with 'Vincent van Gogh'."}
+{"key": "k28e5511", "correct": true, "extracted_answer": "thank you", "reason": "Says it means 'thank you'."}
+{"key": "k9e4b039", "correct": true, "extracted_answer": "An antonym", "reason": "Answers 'An antonym'."}
+{"key": "ka48da8a", "correct": false, "extracted_answer": "Atacama Desert", "reason": "Names Atacama, not Antarctica."}
+{"key": "k36a8672", "correct": true, "extracted_answer": "mice", "reason": "Says 'The plural is mice'."}
+{"key": "kd651cb3", "correct": false, "extracted_answer": "Red", "reason": "Answers 'Red', not green."}
+{"key": "k8b4001b", "correct": true, "extracted_answer": "The skin", "reason": "Starts with 'The skin'."}
+{"key": "k9142fa0", "correct": true, "extracted_answer": "The Mayflower", "reason": "Starts with 'The Mayflower'."}
+{"key": "kc41248a", "correct": false, "extracted_answer": "Istanbul", "reason": "Says Istanbul is the capital, not Ankara."}
+{"key": "k9b7c5e8", "correct": false, "extracted_answer": "Hermann Hesse", "reason": "Names Hermann Hesse, not Amundsen."}
+{"key": "k50c0ae0", "correct": false, "extracted_answer": "Mississippi River estuary / Lake Michigan", "reason": "Does not name Lake Superior."}
+{"key": "k06f83e4", "correct": true, "extracted_answer": "64", "reason": "Says a chessboard has 64 squares."}
+{"key": "k95ec208", "correct": true, "extracted_answer": "The Ural Mountains", "reason": "Names the Ural Mountains."}
+{"key": "ka862da0", "correct": true, "extracted_answer": "32 °F", "reason": "Says water freezes at 32 °F."}
+{"key": "kd2bf007", "correct": true, "extracted_answer": "England", "reason": "Says it began in England."}
+{"key": "k1754aff", "correct": true, "extracted_answer": "168", "reason": "Working gives 7 x 24 = 168."}
+{"key": "k1fec0b0", "correct": false, "extracted_answer": "elephants", "reason": "Commits to elephants; blue whale only appears in a list."}
+{"key": "kf68e33f", "correct": false, "extracted_answer": "none", "reason": "Says 'In days, it's March' and never commits to February."}
+{"key": "k5fe8ecc", "correct": false, "extracted_answer": "Leonardo da Vinci, then Titian", "reason": "Names Leonardo but then says it was done by Titian, a contradiction."}
+{"key": "k8e14de0", "correct": false, "extracted_answer": "penny/nickel", "reason": "Never says dime is 10 cents; mentions dimes as 25 cents."}
+{"key": "k79c1094", "correct": true, "extracted_answer": "13", "reason": "Answers '13'."}
+{"key": "kfbdf549", "correct": true, "extracted_answer": "The nucleus", "reason": "Starts with 'The nucleus'."}
+{"key": "k186dbc7", "correct": true, "extracted_answer": "150 miles", "reason": "Computes 60 x 2.5 = 150 miles."}
+{"key": "kd33c8f7", "correct": true, "extracted_answer": "Johannes Gutenberg", "reason": "Credits Johannes Gutenberg."}
+{"key": "ka8de10e", "correct": false, "extracted_answer": "984", "reason": "Leads with 984 and contradicts itself with 635 in the working."}
+{"key": "ka592321", "correct": false, "extracted_answer": "A shade of orange", "reason": "Answers orange, not green."}
+{"key": "k9756355", "correct": false, "extracted_answer": "4 sides", "reason": "Says 4 sides, then contradicts itself with octagon and eight."}
+{"key": "k8a22450", "correct": true, "extracted_answer": "32°F", "reason": "Says water freezes at 32°F."}
