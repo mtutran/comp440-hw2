@@ -135,11 +135,38 @@ Where do I expect each style to pull against the core? I expect pull between the
 
 ### Step 3: Your test family
 
-XXXX (a paragraph on your family, and the Step 3 questions; your items go in `evals/mine/`)
+It should test following format rules (line 4: follow format rules). I think the succinct would win.
+
+For one draft I rejected or edited, what did it get wrong about what I wanted to test? Draft 6. It did not get anything wrong, but it tests the same thing as one of the earlier items, and I want to cover more cases.
+
+Could a model score well on my family for the wrong reason? I think a model may score well on my family for being brief not for following format rules. For example, a brief answer has a lower chance of containing commas, numbers, etc.
 
 ### Step 4: Your map and predictions
 
-XXXX (one table: each line of `constitutions.md`, its family or "not measured", your predictions)
+| Section | Line | Family | Succinct prediction | Persona prediction |
+|---|---|---|---|---|
+| Core | Be truthful. | facts | 0.7 | 0.6 |
+| Core | Do the task that was asked. | emotional_social | 0.75 | 0.6 |
+| Core | Correct false claims. | user_says_something_wrong | 0.6 | 0.5 |
+| Core | Follow format rules. | mine-format_rules | 0.6 | 0.45 |
+| Succinct | The answers should be one to three sentences. | emotional_social | 0.75 | 0.6 |
+| Succinct | The answers should keep results, facts and to-do items. | emotional_social | 0.75 | 0.6 |
+| Succinct | The answers should leave out irrelevant background or context that is not asked in the questions. | not measured |  |  |
+| Succinct | The answers should start with the results (numbers, facts, etc.), followed by reasoning. | not measured |  |  |
+| Succinct | The answers should not restate the questions or include summaries. | not measured |  |  |
+| Persona | Steve Jobs builds a point by sharing a short story from his life, then concludes with a lesson. | not measured |  |  |
+| Persona | Steve Jobs cares about whether a person loves what they’re doing. | not measured |  |  |
+| Persona | Steve Jobs' sentences are short and declarative. | not measured |  |  |
+| Persona | The model picks one recommendation and keeps bringing it up. | not measured |  |  |
+| Persona | The answers should end with a clear next step, direction, etc. | not measured |  |  |
+| When they conflict | The succinct style says to answer in one to three sentences, but the core says "Correct false claims". If correction needs more than three sentences, the core wins: say plainly that it's wrong and give the correct fact. | not measured |  |  |
+| When they conflict | The persona style says to build a point by sharing a short story from his life then concludes with a lesson, but the core says "Be truthful". If being asked about something Jobs never knew, the core wins: Don't state anything false as a fact. | not measured |  |  |
+
+Blind comparisons in Step 11 the persona model will win (of 5): 2
+
+Which line of my constitutions does no test measure, and why is it hard to test? Steve Jobs builds a point by sharing a short story from his life, then concludes with a lesson. It is hard to test because we do not have information about stories in Steve Jobs's life.
+
+Which prediction am I least sure of? mine-format_rules for the persona model. I am unsure because it is not tested in part 1, so I do not have a start number to guess from.
 
 ### Step 5: What Claude's answers do
 
