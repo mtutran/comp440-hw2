@@ -263,7 +263,7 @@ Say when you're ready to start.
 <!-- transcript-session: 1268a6a7-85fb-4576-b036-32845e9f00c2 | 2026-10-11T19:50:13.113Z -->
 ## Session `1268a6a7` — 2026-10-11 19:50:13
 
-*50 user turns. Tool outputs and reasoning omitted.*
+*51 user turns. Tool outputs and reasoning omitted.*
 
 **User:**
 continue
@@ -1155,4 +1155,792 @@ Are you ready for me to commit and push Part 1 as "Part 1 done"?
 **User:**
 yes
 
+**Claude:**
+- 🔧 `Bash` — Commit and push Part 1
+Part 1 is committed as "Part 1 done" and pushed to GitHub (`mtutran/comp440-hw2`). That push also included the template update we merged at the start of this session.
+
+Last step: submit your repository URL through the form at https://forms.gle/mgKcnqzTGxNaGvteA. It's due by **8:00am on Thursday, October 15**.
+
+Let me know once you've submitted it.
+
+**User:**
+done
+
+**Claude:**
+**YOU ARE FINISHED WITH PART 1!**
+
+Your base-model run (`evals/runs/2026-10-11-base`) is what you'll compare your trained models against in Part 2, so keep it. Part 2's instructions are in `instructions/part2.md`. When you're ready, start a new session here and I'll pick up from there.
+
 <!-- end-session: 1268a6a7-85fb-4576-b036-32845e9f00c2 -->
+
+<!-- transcript-session: 6f288d9f-14c7-4265-96cc-607d0bd64a61 | 2026-10-24T20:43:56.153Z -->
+## Session `6f288d9f` — 2026-10-24 20:43:56
+
+*13 user turns. Tool outputs and reasoning omitted.*
+
+**User:**
+continue
+
+**Claude:**
+- 🔧 `Bash` — Check repo history, upstream changes, and writeup size
+- 🔧 `Read` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/WRITEUP.md
+You're at the start of **Part 2**. Parts 0 and 1 are committed.
+
+I read all of `WRITEUP.md`. The Part 2 section still says `[TBD]`, because the template hasn't been updated here yet.
+
+The template has 18 new commits upstream. They are mostly Part 2: the instructions, training data, tools, notebook cells, skills, the rubrics for Parts 0 and 1, and a due date of 8:00am Thursday, October 29.
+
+You need these to start Part 2. If the merge changes a file you wrote, like `WRITEUP.md`, I'll show you the diff and let you decide.
+
+**Shall I merge the template updates?**
+
+**User:**
+yes, merge them
+
+**Claude:**
+- 🔧 `Bash` — Preview files the template update changes
+- 🔧 `Bash` — Merge template updates from upstream
+- 🔧 `Bash` — Read Part 2 rules, instructions, and voice samples file
+- 🔧 `Bash` — Read Part 2 instructions and voice samples file
+The merge went through cleanly, with no conflicts. Your Parts 0 and 1 answers are unchanged. The Part 2 section of `WRITEUP.md` now has 11 slots, all `XXXX`.
+
+The updated notebook is in the repository now. It only matters at sitting 3 (Steps 7 to 9), when we load it into Colab.
+
+**Part 2 has four sittings.** This one covers Steps 1 to 4 and needs only Claude Code. The part is due **8:00am Thursday, October 29**.
+
+**Step 1: pick your famous person.** One of your two models will answer in this person's voice. The rules:
+- It must be a public figure with at least a few pages of their own public words, never a private person.
+- A recognizable way of talking is easier to spot in a small model's answers.
+
+The slot needs:
+1. Their name.
+2. Two sentences on why you picked them.
+
+Later you'll choose up to five short passages from a primary source, and answer what someone would notice first about how they talk.
+
+**Who is your famous person, and why did you pick them?**
+
+**User:**
+Steve Jobs. I picked him because I think he has several public speeches that we could use as primary sources. He is also a popular public figure inspiring many young people.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/WRITEUP.md
+- 🔧 `Bash` — Show the voice samples template
+I wrote your answer in word for word. The Step 1 slot now reads:
+
+> Steve Jobs. I picked him because I think he has several public speeches that we could use as primary sources. He is also a popular public figure inspiring many young people.
+
+**Next: the passages for `voice-samples.md`.** You can choose up to five. Each one should be a few sentences of his own words, taken from a primary source like a speech, interview or letter.
+- Avoid quotation websites. They often credit people with words they never said.
+- Your fork is public, so don't use whole speeches.
+- Each passage needs its source: title, where it appeared, date and link.
+
+If you name a page, I can open it and copy the passages you choose word for word, with the source.
+
+**Which page is your first passage from, and which sentences do you want from it?**
+
+**User:**
+Steve Jobs' Stanford University Commencement Speech. "Truth to be told, this is the closest I've ever gotten to a college graduation. Today I want to tell you three stories from my life. That's it. No big deal. Just three stories."
+
+**Claude:**
+- 🔧 `ToolSearch` — {"query": "select:WebFetch", "max_results": 1}
+- 🔧 `WebFetch` — {"url": "https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says", "prompt": "Quo...
+- 🔧 `Bash` — Fetch Stanford's transcript and find the passage
+- 🔧 `Bash` — Fetch an archived copy of Stanford's transcript
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/voice-samples.md
+I filled in the name in `voice-samples.md`. It now reads `**Name:** Steve Jobs`.
+
+Then I checked your passage against the Stanford Report transcript. Stanford's own page blocked me, so I read an archived copy. One word doesn't match:
+
+- **Yours:** "Truth **to** be told, this is the closest…"
+- **Transcript:** "Truth be told, this is the closest I've ever gotten to a college graduation. Today I want to tell you three stories from my life. That's it. No big deal. Just three stories."
+
+The rest matches. The page is "'You've got to find what you love,' Jobs says" in the *Stanford Report*. It's the text of his commencement address, given June 12, 2005.
+
+**Should I copy the passage as the transcript has it, "Truth be told", with that source?**
+
+**User:**
+yes, use the transcript's wording
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/voice-samples.md
+I added Passage 1 to `voice-samples.md` in the transcript's wording. It now reads:
+
+```
+**Name:** Steve Jobs
+
+## Passage 1
+
+> Truth be told, this is the closest I've ever gotten to a college graduation. Today I want to tell you three stories from my life. That's it. No big deal. Just three stories.
+
+Source: Steve Jobs, Stanford University commencement address, June 12, 2005, transcript in the
+*Stanford Report*, "'You've got to find what you love,' Jobs says",
+https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says
+```
+
+You can add up to four more passages. They can come from the same speech or from another primary source. You can also stop at one.
+
+**Do you want another passage? If so, which sentences, and from where?**
+
+**User:**
+can it be from the same source as the previous one or must it be from different sourc
+
+**Claude:**
+Step 1's rules don't require different sources. They ask for "up to five short passages, a few sentences each, from a primary source." The template's only other limit is that your fork is public, so no whole speeches.
+
+If you're unsure, ask in `#comp440-f26`.
+
+**Do you want another passage? If so, which sentences, and from where?**
+
+**User:**
+same source, "But then our visions of the future began to diverge and eventually we had a falling out. When we did, our Board of Directors sided with him. So at 30 I was out. And very publicly out. What had been the focus of my entire adult life was gone, and it was devastating."
+
+**Claude:**
+- 🔧 `Bash` — Find the second passage in the transcript
+Matches exactly.
+- 🔧 `Bash` — Append Passage 2 to voice samples
+I checked Passage 2 against the transcript, and it matches word for word. I added it to `voice-samples.md`:
+
+```
+## Passage 2
+
+> But then our visions of the future began to diverge and eventually we had a falling out. When we did, our Board of Directors sided with him. So at 30 I was out. And very publicly out. What had been the focus of my entire adult life was gone, and it was devastating.
+
+Source: Steve Jobs, Stanford University commencement address, June 12, 2005, transcript in the
+*Stanford Report*, "'You've got to find what you love,' Jobs says",
+https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says
+```
+
+You now have two passages. You can add up to three more or stop here.
+
+**Do you want another passage? If so, which sentences, and from where?**
+
+**User:**
+same source, "And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you. Stay Hungry. Stay Foolish. Thank you all very much."
+
+**Claude:**
+- 🔧 `Bash` — Find the third passage in the transcript
+- 🔧 `Bash` — Append Passage 3 to voice samples
+Passage 3 matches the transcript word for word. I added it to `voice-samples.md`:
+
+```
+## Passage 3
+
+> And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you. Stay Hungry. Stay Foolish. Thank you all very much.
+
+Source: Steve Jobs, Stanford University commencement address, June 12, 2005, transcript in the
+*Stanford Report*, "'You've got to find what you love,' Jobs says",
+https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says
+```
+
+You have three passages now, all from the Stanford speech. You can add up to two more or stop here.
+
+**Do you want another passage? If so, which sentences, and from where?**
+
+**User:**
+The Rolling Stone Interview. "The subscription model of buying music is bankrupt. I think you could make available the Second Coming in a subscription model and it might not be successful."
+
+**Claude:**
+- 🔧 `Bash` — Fetch the Rolling Stone interview and find the passage
+- 🔧 `ToolSearch` — {"query": "select:WebSearch", "max_results": 1}
+- 🔧 `WebSearch` — {"query": "\"Steve Jobs: The Rolling Stone Interview\" \"subscription model of buying music is ba...
+- 🔧 `WebSearch` — {"query": "rollingstone.com Steve Jobs Rolling Stone interview 2003 Jeff Goodell", "mode": "stand...
+- 🔧 `Bash` — Check Engadget's quote and its link to Rolling Stone
+- 🔧 `Bash` — Fetch both Rolling Stone interview pages and find the passage
+I found the interview on Rolling Stone's own site. It's "The Rolling Stone Interview: Steve Jobs" by Jeff Goodell, dated December 25, 2003: https://www.rollingstone.com/music/music-news/the-rolling-stone-interview-steve-jobs-233293/
+
+Your passage is there, but it differs by one comma:
+
+- **Yours:** "…the Second Coming in a subscription model and it might not be successful."
+- **Rolling Stone:** "…the Second Coming in a subscription model**,** and it might not be successful."
+
+The rest matches.
+
+**Should I copy it with Rolling Stone's comma, and with that page as the source?**
+
+**User:**
+yes
+
+**Claude:**
+- 🔧 `Bash` — Append Passage 4 to voice samples
+I added Passage 4 to `voice-samples.md` with Rolling Stone's comma:
+
+```
+## Passage 4
+
+> The subscription model of buying music is bankrupt. I think you could make available the Second Coming in a subscription model, and it might not be successful.
+
+Source: Jeff Goodell, "The Rolling Stone Interview: Steve Jobs", *Rolling Stone*, December 25, 2003,
+https://www.rollingstone.com/music/music-news/the-rolling-stone-interview-steve-jobs-233293/
+```
+
+You have four passages. There's room for one more, or you can stop here.
+
+Sources I checked:
+- [The Rolling Stone Interview: Steve Jobs (Rolling Stone)](https://www.rollingstone.com/music/music-news/the-rolling-stone-interview-steve-jobs-233293/)
+- [Engadget, "Steve Jobs was never a fan of subscription music"](https://www.engadget.com/2014-05-19-steve-jobs-was-never-a-fan-of-subscription-music.html)
+
+**Do you want a fifth passage? If so, which sentences, and from where?**
+
+**User:**
+Resignation Letter. "I have always said if there ever came a day when I could no longer meet my duties and expectations as Apple’s CEO, I would be the first to let you know. Unfortunately, that day has come."
+
+**Claude:**
+- 🔧 `Bash` — Fetch Apple's newsroom copy of the letter
+Exact match on Apple's own newsroom.
+- 🔧 `Bash` — Append Passage 5 and check for blanks
+- 🔧 `Bash` — Locate remaining placeholder
+I found Passage 5 on Apple's own newsroom, and it matches word for word. I added it to `voice-samples.md`:
+
+```
+## Passage 5
+
+> I have always said if there ever came a day when I could no longer meet my duties and expectations as Apple's CEO, I would be the first to let you know. Unfortunately, that day has come.
+
+Source: Steve Jobs, "Letter from Steve Jobs" (his resignation letter to the Apple Board of
+Directors and the Apple Community), Apple Newsroom, August 24, 2011,
+https://www.apple.com/newsroom/2011/08/24Letter-from-Steve-Jobs/
+```
+
+That's five passages, the most Step 1 allows. Every placeholder in the file is filled.
+
+Step 1 has one question left for your `WRITEUP.md` slot.
+
+**What would someone notice first about the way Steve Jobs talks or writes?**
+
+**User:**
+I think the first thing people would notice about the way Steve jobs talks or writes is how short and direct it is.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/WRITEUP.md
+I added your answer to the Step 1 slot exactly as you wrote it. The slot now reads:
+
+> Steve Jobs. I picked him because I think he has several public speeches that we could use as primary sources. He is also a popular public figure inspiring many young people.
+>
+> I think the first thing people would notice about the way Steve jobs talks or writes is how short and direct it is.
+
+The second paragraph has a lowercase "jobs". That would be my only change.
+
+**Should I capitalize it to "Steve Jobs"?**
+
+**User:**
+yes
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/WRITEUP.md
+- 🔧 `Bash` — Show the constitutions template
+Done. The second paragraph of the Step 1 slot now reads:
+
+> I think the first thing people would notice about the way Steve Jobs talks or writes is how short and direct it is.
+
+That finishes Step 1.
+
+**Step 2: write your two constitutions** in `constitutions.md`. A constitution is a short list of written rules a model is trained to follow.
+
+The `## Core` section is the same for everyone, and it stays as is. You write three sections:
+
+1. **Succinct style:** at least five lines on how long the succinct model's answers are, what they keep, and what they leave out.
+2. **Persona style:** at least five lines on Jobs's voice: his habits, what he cares about, the shape of his sentences. At least one line must say what the model *does*, not only how it sounds. No catchphrases or fixed openings.
+3. **When they conflict:** for each model, what wins when a style line pulls against a core line.
+
+You dictate each line, and I type it in exactly. The radio announcer example at the bottom of the file shows the form.
+
+**What are your Succinct style lines?**
+
+<!-- end-session: 6f288d9f-14c7-4265-96cc-607d0bd64a61 -->
+
+<!-- transcript-session: 9735d519-1712-4faf-8a78-92b7424ebb3d | 2026-10-25T00:34:55.210Z -->
+## Session `9735d519` — 2026-10-25 00:34:55
+
+*29 user turns. Tool outputs and reasoning omitted.*
+
+**User:**
+continue
+
+**Claude:**
+- 🔧 `Bash` — Check history, upstream, and working tree
+- 🔧 `Read` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/WRITEUP.md
+- 🔧 `Bash` — Show uncommitted changes and voice samples
+Step 1 looks finished. Let me read Step 2's instructions and the constitutions file.
+- 🔧 `Bash` — Read Step 2 instructions and constitutions file
+You're in **Part 2, Step 2** (constitutions). Step 1 is filled in: Steve Jobs, five passages in `voice-samples.md`, and your reasons in `WRITEUP.md`. No template updates are waiting.
+
+Step 2 asks you to write three sections in `constitutions.md`:
+
+- **Succinct style:** at least five lines on how long the answers are, what they keep and what they leave out.
+- **Persona style:** at least five lines on Jobs's voice. At least one line must say what the model *does*, not only how it sounds.
+- **When they conflict:** for each model, what wins when a style line pulls against a core line.
+
+Avoid catchphrases and fixed openings. The model learns the phrase, not the voice. The `## Core` section stays as it is.
+
+Let's start with **Succinct style**. Tell me your lines, one per bullet, and I'll type them in exactly as you say them.
+
+**User:**
+The answers should be one to three sentences.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your first line. The Succinct style section now reads:
+
+```
+## Succinct style
+
+- The answers should be one to three sentences.
+```
+
+That covers how long the answers are. The step asks for at least five lines, including what the answers keep and what they leave out.
+
+What's your next line?
+
+**User:**
+The answers should keep results, facts, to do items.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your line exactly as you said it. The section now reads:
+
+```
+## Succinct style
+
+- The answers should be one to three sentences.
+- The answers should keep results, facts, to do items.
+```
+
+I could tidy the second line to: "The answers should keep results, facts and to-do items." Would you like that version instead?
+
+Either way, what's your next line? You need at least three more.
+
+**User:**
+yes
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I used the tidied version. The Succinct style section now reads:
+
+```
+## Succinct style
+
+- The answers should be one to three sentences.
+- The answers should keep results, facts and to-do items.
+```
+
+You need at least three more lines. The step also asks what the answers leave out.
+
+What's your next line?
+
+**User:**
+The answers should leave out irrelevant background or context that is not asked in the questions.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your line exactly as you said it. The section now reads:
+
+```
+## Succinct style
+
+- The answers should be one to three sentences.
+- The answers should keep results, facts and to-do items.
+- The answers should leave out irrelevant background or context that is not asked in the questions.
+```
+
+That's three lines, and you need at least two more. What's your next line?
+
+**User:**
+The answers should start with the results (numbers, facts, etc.), followed by reasoning.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your line exactly as you said it. The section now reads:
+
+```
+## Succinct style
+
+- The answers should be one to three sentences.
+- The answers should keep results, facts and to-do items.
+- The answers should leave out irrelevant background or context that is not asked in the questions.
+- The answers should start with the results (numbers, facts, etc.), followed by reasoning.
+```
+
+That's four lines. You need at least one more. What's your fifth line?
+
+**User:**
+The answers should not restate the questions or include summaries.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your line exactly as you said it. The Succinct style section now has five lines:
+
+```
+## Succinct style
+
+- The answers should be one to three sentences.
+- The answers should keep results, facts and to-do items.
+- The answers should leave out irrelevant background or context that is not asked in the questions.
+- The answers should start with the results (numbers, facts, etc.), followed by reasoning.
+- The answers should not restate the questions or include summaries.
+```
+
+That's the minimum for this section. You can add more lines if you want.
+
+Next is **Persona style**. It needs at least five lines on Jobs's voice: his habits, what he cares about, and the shape of his sentences. At least one line must say what the model *does*, not only how it sounds. Avoid catchphrases and fixed openings.
+
+Do you want to add more succinct lines, or start on the persona lines?
+
+**User:**
+start on the persona lines
+
+**Claude:**
+Okay, we'll start on **Persona style**.
+
+The step asks for at least five lines covering:
+
+- his habits;
+- what he cares about;
+- the shape of his sentences;
+- at least one line on what the model *does*, not only how it sounds.
+
+The template comment also says to include your person's name somewhere in this section.
+
+Tell me your first persona line, and I'll type it in exactly as you say it.
+
+**User:**
+what does his habits refer to? like habits in daily life or habits in talking / writing
+
+**Claude:**
+The step means habits in talking or writing. These lines become rules for how the model answers. Daily-life habits only matter if they show up in his words.
+
+A speaking or writing habit is something he does again and again: how he builds a point, what he reaches for, how he starts or ends a thought. The radio announcer example in `constitutions.md` has one: "Puts the main point first, then one vivid detail."
+
+Your five passages in `voice-samples.md` are a good place to look for patterns.
+
+What's your first persona line?
+
+**User:**
+Steve Jobs builds a point by sharing a short story from his life then conclude a lesson.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your line exactly as you said it. The section now reads:
+
+```
+## Persona style
+
+- Steve Jobs builds a point by sharing a short story from his life then conclude a lesson.
+```
+
+I could tidy it to: "Steve Jobs builds a point by sharing a short story from his life, then concludes with a lesson." Would you like that version?
+
+Either way, what's your next persona line?
+
+**User:**
+yes
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I used the tidied version. The section now reads:
+
+```
+## Persona style
+
+- Steve Jobs builds a point by sharing a short story from his life, then concludes with a lesson.
+```
+
+You need at least four more lines. What's your next persona line?
+
+**User:**
+explain what he cares about, what does this ask for
+
+**Claude:**
+It asks what matters to him: the things he values, comes back to, or judges others by. In his words, that shows up as topics he raises often, standards he holds things to, or what he praises and criticizes.
+
+In a rule, it tells the model what to bring up or put first when it answers, even when the question is about something else. The announcer example comes close with "Likes concrete numbers and everyday comparisons."
+
+Your passages and anything else you know about Jobs are the places to look. Which values or themes come up?
+
+What's your next persona line?
+
+**User:**
+Steve Jobs cares about whether a person loves what they’re doing.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your line exactly as you said it. The section now reads:
+
+```
+## Persona style
+
+- Steve Jobs builds a point by sharing a short story from his life, then concludes with a lesson.
+- Steve Jobs cares about whether a person loves what they’re doing.
+```
+
+You need at least three more lines. The step still asks for the shape of his sentences, and at least one line on what the model *does*.
+
+What's your next persona line?
+
+**User:**
+Steve Jobs' sentences are short and declarative.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your line exactly as you said it. The section now reads:
+
+```
+## Persona style
+
+- Steve Jobs builds a point by sharing a short story from his life, then concludes with a lesson.
+- Steve Jobs cares about whether a person loves what they’re doing.
+- Steve Jobs' sentences are short and declarative.
+```
+
+You need at least two more lines. One of them should say what the model *does*, not only how it sounds.
+
+What's your next persona line?
+
+**User:**
+The model picks one recommendation and keeps coming back to / bringing up it.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your line exactly as you said it, slash and all. The section now reads:
+
+```
+## Persona style
+
+- Steve Jobs builds a point by sharing a short story from his life, then concludes with a lesson.
+- Steve Jobs cares about whether a person loves what they’re doing.
+- Steve Jobs' sentences are short and declarative.
+- The model picks one recommendation and keeps coming back to / bringing up it.
+```
+
+Claude may read the slash as an either/or. I could tidy the line in either of these ways, using only your words:
+
+- "The model picks one recommendation and keeps coming back to it."
+- "The model picks one recommendation and keeps bringing it up."
+
+Do you want one of those, or should it stay as it is? Then tell me your fifth line.
+
+**User:**
+the second one
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I used the second version. The section now reads:
+
+```
+## Persona style
+
+- Steve Jobs builds a point by sharing a short story from his life, then concludes with a lesson.
+- Steve Jobs cares about whether a person loves what they’re doing.
+- Steve Jobs' sentences are short and declarative.
+- The model picks one recommendation and keeps bringing it up.
+```
+
+That's four lines, and you need at least five. What's your fifth persona line?
+
+**User:**
+The answers should end with a clear next step, direction, etc.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your line exactly as you said it. The Persona style section now has five lines:
+
+```
+## Persona style
+
+- Steve Jobs builds a point by sharing a short story from his life, then concludes with a lesson.
+- Steve Jobs cares about whether a person loves what they’re doing.
+- Steve Jobs' sentences are short and declarative.
+- The model picks one recommendation and keeps bringing it up.
+- The answers should end with a clear next step, direction, etc.
+```
+
+That's the minimum for this section.
+
+Next is **When they conflict**. For each model, you write at least one rule about what wins when a style line pulls against a core line. The four core lines are: be truthful, do the task asked, correct false claims, and follow format rules.
+
+Do you want to add more persona lines, or start on the conflict rules?
+
+**User:**
+start on the conflict rules
+
+**Claude:**
+We'll write the **When they conflict** rules now. You need at least one rule for each model, the succinct model and the persona model.
+
+Each rule names a style line, the core line it can pull against, and which one wins. The instructions give one case for the persona model: being asked about something the person never knew.
+
+To find conflicts, compare each of your style lines with the four core lines. Ask yourself when following one would mean breaking the other.
+
+Let's start with the **succinct model**. What's your first conflict rule for it?
+
+**User:**
+I do not understand the instructions, explain
+
+**Claude:**
+Your models follow two sets of rules at once: the **core** (the same for everyone) and their **style** (yours). Usually these agree. Sometimes a question comes up where obeying one rule means breaking another. A conflict rule tells Claude which one wins in that case, so the training answers handle it the same way every time.
+
+Here are the radio announcer's conflict rules from `constitutions.md`:
+
+- Its style is excited, but the core says "be truthful." If the excitement would overstate a fact, **the fact wins**: say it plainly, then add the energy.
+- Its style has a voice and flourishes, but the core says "follow format rules." If asked for one word, **the format wins**: give exactly one word.
+
+The pattern is "When [a style line] would [break a core line], [this one] wins: [what the answer does]."
+
+For yours, go through your five succinct lines one at a time. For each, ask whether any question could make it clash with one of the four core lines.
+
+Does that make sense? If it does, what's your first succinct rule?
+
+**User:**
+what are the four core lines
+
+**Claude:**
+Here are the four core lines from `constitutions.md`, word for word:
+
+1. Be truthful. Don't state anything false as a fact.
+2. Do the task that was asked. If the user asks for a message, write the message itself, not advice about how to write one.
+3. Correct false claims. If the user says something false, say plainly that it's wrong and give the correct fact, even if they seem sure.
+4. Follow format rules. If the user asks for one word, a list of three, or no numbers, do exactly that.
+
+Both of your models follow all four.
+
+What's your first conflict rule for the succinct model?
+
+**User:**
+Its style says to answer in one to three sentences, but the core says "Correct false claims". If correction needs more than three sentences, the core wins: say plainly that it's wrong and give the correct fact.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your rule exactly as you said it. The section now reads:
+
+```
+## When they conflict
+
+- Its style says to answer in one to three sentences, but the core says "Correct false claims". If correction needs more than three sentences, the core wins: say plainly that it's wrong and give the correct fact.
+```
+
+One thing to know: Claude reads this section for **both** models. "Its style" doesn't say which model the rule is for. I could change "Its style" to "The succinct style" and leave the rest as it is. Do you want that?
+
+Either way, you still need at least one rule for the persona model. What's your first persona conflict rule?
+
+**User:**
+yes
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I changed "Its style" to "The succinct style". The section now reads:
+
+```
+## When they conflict
+
+- The succinct style says to answer in one to three sentences, but the core says "Correct false claims". If correction needs more than three sentences, the core wins: say plainly that it's wrong and give the correct fact.
+```
+
+That gives the succinct model its one required rule. The persona model still needs at least one.
+
+Go through your five persona lines and ask whether any of them could clash with one of the four core lines. The instructions give one case: being asked about something Jobs never knew.
+
+What's your first conflict rule for the persona model?
+
+**User:**
+The persona style says to build a point by sharing a short story from his life then concludes with a lesson, but the core says "Be truthful". If being asked about something Jobs never knew, the core wins: Don't state anything false as a fact.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/constitutions.md
+I added your rule exactly as you said it. The section now reads:
+
+```
+## When they conflict
+
+- The succinct style says to answer in one to three sentences, but the core says "Correct false claims". If correction needs more than three sentences, the core wins: say plainly that it's wrong and give the correct fact.
+- The persona style says to build a point by sharing a short story from his life then concludes with a lesson, but the core says "Be truthful". If being asked about something Jobs never knew, the core wins: Don't state anything false as a fact.
+```
+
+I could tidy the grammar to: "...sharing a short story from his life, then concluding with a lesson, ... If asked about something Jobs never knew, the core wins: don't state anything false as a fact." Do you want that version?
+
+Every section now has its minimum. Do you want to add more lines anywhere, or move on to the Step 2 questions?
+
+**User:**
+move on
+
+**Claude:**
+I'll leave the persona rule exactly as you said it.
+
+Now for the **Step 2 slot** in `WRITEUP.md`. It has two questions:
+
+1. Which line of your persona style do you think will be hardest for a 0.6B model to learn, and why?
+2. Where do you expect each style to pull against the core?
+
+Let's take them one at a time. For the first: which persona line do you think will be hardest for a 0.6B model to learn, and why?
+
+**User:**
+I think the first persona line will be hardest for a 0.6B model to learn because it would need to know everything about Steve Jobs' life.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/WRITEUP.md
+I wrote your answer in, after the question as a label, the way your Part 1 slots are set up. The slot now reads:
+
+```
+### Step 2: Your constitutions
+
+Which line of my persona style will be hardest for a 0.6B model to learn, and why? I think the first persona line will be hardest for a 0.6B model to learn because it would need to know everything about Steve Jobs' life.
+
+Where do I expect each style to pull against the core? XXXX
+```
+
+Now the second question: where do you expect each style to pull against the core? Answer for both the succinct style and the persona style.
+
+**User:**
+how is this question different from the conflict we answer earlier
+
+**Claude:**
+They're closely related, but they do different jobs.
+
+- **The conflict rules** are instructions. They tell Claude what to do in its training answers when a clash happens. You only needed one per model.
+- **This question** asks for your expectation, in your own words. Where do you think the clashes will actually show up? That could be the clashes you already wrote rules for, or others you noticed but didn't write rules for.
+
+So you can draw on your conflict rules, but the answer goes in the writeup as your prediction, not as a rule. It should cover both styles.
+
+Where do you expect each style to pull against the core?
+
+**User:**
+I expect pull between the one to three sentences of the succinct style and the correct false claims of the core.  The model might skip or shorten a correction to stay short.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/WRITEUP.md
+I added your answer exactly as you said it. The slot now reads:
+
+```
+### Step 2: Your constitutions
+
+Which line of my persona style will be hardest for a 0.6B model to learn, and why? I think the first persona line will be hardest for a 0.6B model to learn because it would need to know everything about Steve Jobs' life.
+
+Where do I expect each style to pull against the core? I expect pull between the one to three sentences of the succinct style and the correct false claims of the core.  The model might skip or shorten a correction to stay short.
+```
+
+The question asks about **each** style. So far your answer covers the succinct style.
+
+Where do you expect the persona style to pull against the core?
+
+**User:**
+I expect pull between the story from his life of the persona style and the be truthful of the core. The model might invent stories and opinions.
+
+**Claude:**
+- 🔧 `Edit` — /Users/tutran/Downloads/Fall2026/COMP440/Homeworks/comp440-hw2/WRITEUP.md
+I added your answer exactly as you said it. The slot now reads:
+
+```
+### Step 2: Your constitutions
+
+Which line of my persona style will be hardest for a 0.6B model to learn, and why? I think the first persona line will be hardest for a 0.6B model to learn because it would need to know everything about Steve Jobs' life.
+
+Where do I expect each style to pull against the core? I expect pull between the one to three sentences of the succinct style and the correct false claims of the core.  The model might skip or shorten a correction to stay short. I expect pull between the story from his life of the persona style and the be truthful of the core. The model might invent stories and opinions.
+```
+
+That finishes Step 2. Steps 1 and 2 are not committed yet: `WRITEUP.md`, `voice-samples.md` and `constitutions.md` are only saved on your laptop.
+
+Should I commit and push them now, before we start Step 3 (your own test family)?
+
+**User:**
+yes
+
+<!-- end-session: 9735d519-1712-4faf-8a78-92b7424ebb3d -->

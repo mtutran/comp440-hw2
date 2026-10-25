@@ -123,11 +123,15 @@ Where do I think the strange parts came from? The model is trying to predict the
 
 ### Step 1: Your famous person, and why
 
-XXXX (your passages go in `voice-samples.md`)
+Steve Jobs. I picked him because I think he has several public speeches that we could use as primary sources. He is also a popular public figure inspiring many young people.
+
+I think the first thing people would notice about the way Steve Jobs talks or writes is how short and direct it is.
 
 ### Step 2: Your constitutions
 
-XXXX (your lines go in `constitutions.md`; answer the Step 2 questions here)
+Which line of my persona style will be hardest for a 0.6B model to learn, and why? I think the first persona line will be hardest for a 0.6B model to learn because it would need to know everything about Steve Jobs' life.
+
+Where do I expect each style to pull against the core? I expect pull between the one to three sentences of the succinct style and the correct false claims of the core.  The model might skip or shorten a correction to stay short. I expect pull between the story from his life of the persona style and the be truthful of the core. The model might invent stories and opinions.
 
 ### Step 3: Your test family
 
